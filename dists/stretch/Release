@@ -2,11 +2,14 @@ Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
 Codename: stretch
-Date: Sun, 24 Sep 2017 22:59:34 UTC
-Architectures: amd64 arm64
+Date: Sun, 24 Sep 2017 23:52:47 UTC
+Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
 MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 986f915919ea4c713279384e795f5c25 136 main/binary-i386/Release
  79e7700ebaa0dba360ab182175b1befd 622 main/binary-amd64/Packages
  2b2893fa7074f01d03b655fe0ff06d70 446 main/binary-amd64/Packages.gz
  aa7f943477a5205aac35178a4b430063 137 main/binary-amd64/Release
@@ -14,6 +17,9 @@ MD5Sum:
  6011e7581d6f0fb1be9af0389957555d 445 main/binary-arm64/Packages.gz
  937ee4ae6afd24e0927d1be8fb9994f0 137 main/binary-arm64/Release
 SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 07eb469ea58485b015e4e90d15134234bbd64c6e 136 main/binary-i386/Release
  c14edfdf596e15c8378db486ccf68b39a6886bbc 622 main/binary-amd64/Packages
  a9b4dd1db535969f87771f18313c995f325d6dec 446 main/binary-amd64/Packages.gz
  982ec36454dc5f49043cd1923db2cb297bfea126 137 main/binary-amd64/Release
@@ -21,6 +27,9 @@ SHA1:
  a7db52aae3c5c04d2e3dc276600571053b46bcce 445 main/binary-arm64/Packages.gz
  c9c6f50afea1c41795d131704381f0fd16157a66 137 main/binary-arm64/Release
 SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ c99ed0d4eb691164afbea8ba7af6f46534784c7614fb7980c1db124d0305725c 136 main/binary-i386/Release
  2ba0a52b43261ccc16317ea4e216b6544c51f41358417fb52bf36af47ff8835f 622 main/binary-amd64/Packages
  a896baa0df0e9620329b4d7e63fa10ace52c8ba6be3183ed2f8f18cf2dc21b8f 446 main/binary-amd64/Packages.gz
  1b5c5f52e220ff50cef77b915897b26d481ba9176746f1d0d7b10d214a09d03b 137 main/binary-amd64/Release

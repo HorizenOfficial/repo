@@ -1,7 +1,6 @@
+Archive: stable
+Component: main
 Origin: ZencashOfficial
 Label: ZencashOfficial
-Suite: stable
-Codename: stretch
-Architectures: i386 amd64 arm64
-Components: main
+Architecture: i386
 Description: ZencashOfficial binaries
