@@ -1,0 +1,29 @@
+Origin: ZencashOfficial
+Label: ZencashOfficial
+Suite: stable
+Codename: stretch
+Date: Sun, 24 Sep 2017 22:59:34 UTC
+Architectures: amd64 arm64
+Components: main
+Description: ZencashOfficial binaries
+MD5Sum:
+ 79e7700ebaa0dba360ab182175b1befd 622 main/binary-amd64/Packages
+ 2b2893fa7074f01d03b655fe0ff06d70 446 main/binary-amd64/Packages.gz
+ aa7f943477a5205aac35178a4b430063 137 main/binary-amd64/Release
+ 7829795afa33611fb40feddbba741848 620 main/binary-arm64/Packages
+ 6011e7581d6f0fb1be9af0389957555d 445 main/binary-arm64/Packages.gz
+ 937ee4ae6afd24e0927d1be8fb9994f0 137 main/binary-arm64/Release
+SHA1:
+ c14edfdf596e15c8378db486ccf68b39a6886bbc 622 main/binary-amd64/Packages
+ a9b4dd1db535969f87771f18313c995f325d6dec 446 main/binary-amd64/Packages.gz
+ 982ec36454dc5f49043cd1923db2cb297bfea126 137 main/binary-amd64/Release
+ 7b8c74cf7ee27f8ebb04211c3d3218b026ef6662 620 main/binary-arm64/Packages
+ a7db52aae3c5c04d2e3dc276600571053b46bcce 445 main/binary-arm64/Packages.gz
+ c9c6f50afea1c41795d131704381f0fd16157a66 137 main/binary-arm64/Release
+SHA256:
+ 2ba0a52b43261ccc16317ea4e216b6544c51f41358417fb52bf36af47ff8835f 622 main/binary-amd64/Packages
+ a896baa0df0e9620329b4d7e63fa10ace52c8ba6be3183ed2f8f18cf2dc21b8f 446 main/binary-amd64/Packages.gz
+ 1b5c5f52e220ff50cef77b915897b26d481ba9176746f1d0d7b10d214a09d03b 137 main/binary-amd64/Release
+ 4b01ebe282ba349ae5b291286330637e2ad73ceaab3c14591f8a98d4e1840aee 620 main/binary-arm64/Packages
+ 4aa72fa76df7ca67251d3e3eadd4e4621bb016ef8f6fac28185a3f426923b0f3 445 main/binary-arm64/Packages.gz
+ bd96a2c84360ed873a876c4f106f80fb7668f4c393f1f9c8817751ce731ab5d7 137 main/binary-arm64/Release

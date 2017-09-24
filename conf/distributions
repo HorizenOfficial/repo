@@ -1,0 +1,7 @@
+Origin: ZencashOfficial
+Label: ZencashOfficial
+Suite: stable
+Codename: stretch
+Architectures: amd64 arm64
+Components: main
+Description: ZencashOfficial binaries
