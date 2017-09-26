@@ -16,19 +16,15 @@ sudo apt-get install zen zencash-desktop-gui-wallet
 ```
 ## AMD64
 zen
-
-Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
+        Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
 
 zencash-desktop-gui-wallet
-
-Depends: default-jdk, zen
+        Depends: default-jdk, zen
 
 ## ARM64
 zen
-
-Depends: libc6 (>= 2.17), libgcc1 (>= 1:4.5), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
+        Depends: libc6 (>= 2.17), libgcc1 (>= 1:4.5), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
 
 zencash-desktop-gui-wallet
-
-Depends: default-jdk, zen
+        Depends: default-jdk, zen
 ```
