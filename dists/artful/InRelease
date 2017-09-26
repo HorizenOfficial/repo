@@ -1,8 +1,11 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
-Codename: stretch
-Date: Tue, 26 Sep 2017 19:54:42 UTC
+Codename: artful
+Date: Tue, 26 Sep 2017 19:54:54 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
@@ -36,3 +39,20 @@ SHA256:
  ed539095e08c56a332745d73f603494dc673e30f0a04a0bd15baed064e106272 1100 main/binary-arm64/Packages
  fab94e4b3b8a3ebea6b01bc5e5b674cf662373b6cce8fbb3618df14f558f0f79 663 main/binary-arm64/Packages.gz
  bd96a2c84360ed873a876c4f106f80fb7668f4c393f1f9c8817751ce731ab5d7 137 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJZyrCPAAoJEPtwU85JkbZpRpcP/3LT7YRCuSW7ThUKEIg7SMRT
+gt8d3wJ8xnV5F7u3jzJCzNCFep0iOyFSULUpwgfLQ5V43oRveedCDGOjOkgC8Afs
+RrKlggAFtvQ8pUA9iJhC4AZw+Lfz8nNqqaF+ANzHYtkS2PohjbYEN4P/RHJk24fk
+CNpKAmgNa5MusMdFYvpBs+PiVFJx6DnXoof9A7bbWTNbe1JGjI/BlQP0Jbh/zWl6
+UkrHAoQm7nH17WObm5G3TDQxYTRRy6Wof2hjS+Vwa+u8ibYU2uUzR4Unhc03rXls
+/UVn0HCdQgbU97jDnO9nxZiGo1abc1q+UNFh+leYrKeqMaBnN6lzzxxGjCGU+FzF
+8rO575es2/jlOt8+XypqZQYE2y1ZZCH/j7U1rqyAq54i2zO+Sb3DjW7CY+7FVDOR
+AZSMYdUj5+2kRw43D+pUsN3zEiHg+t/dNYbdLp85puGVaWOoOAq7PNY+ZojRVLYd
+eq5Ga9E0gFS0oWaaGz9xq5TbHBUGPX+9wl6YuTq9UvFwn7xk2GIz5D1WHmcf59yY
+YFSQfpVxCkbIADB9bqNIrkZeS/Lz4mHKwMG3xMJcZSuNXz5zxqEbYoo+e6c/y2DT
+PzWM1wggRgpC1wtU9M7Dk2zd/r41XwHAZ1BaNUgMVq+Mkx8hcP2epSWGbeKEjGP1
+e+3qfgq+53ZT1N+imJAx
+=URvf
+-----END PGP SIGNATURE-----

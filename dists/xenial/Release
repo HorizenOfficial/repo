@@ -1,8 +1,8 @@
 Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
-Codename: stretch
-Date: Tue, 26 Sep 2017 19:54:42 UTC
+Codename: xenial
+Date: Tue, 26 Sep 2017 19:54:47 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries

@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
@@ -36,3 +39,20 @@ SHA256:
  ed539095e08c56a332745d73f603494dc673e30f0a04a0bd15baed064e106272 1100 main/binary-arm64/Packages
  fab94e4b3b8a3ebea6b01bc5e5b674cf662373b6cce8fbb3618df14f558f0f79 663 main/binary-arm64/Packages.gz
  bd96a2c84360ed873a876c4f106f80fb7668f4c393f1f9c8817751ce731ab5d7 137 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJZyrCDAAoJEPtwU85JkbZpsXEP/RbX+gru9QK9MmL2QZ+5Ei3k
+JetpsZU5k1Vj8zKe1qqmGCk9Vs6O20NgxFSPG7dcK7iBTFi3OcTQaweysaoIXaRR
+mCRuAvmKMUihlAXdYiLuem0bShJWGZhZzc4twWQedtgA7cPWeq5fdkaTyltBQMGf
+nDhEa+vg+Cc/oj6FCsc+RSyKM2meqi0cQoYusw1IDPcQ1MHdk97ge/ZpUscSGmlJ
+9xgBMVwZuquY3EaL2sCQnvbYqc3jLVDnqBUNIsdcx1+saXa14rrQkxD47H2IyMYs
+cm2DJqcMnexXcou66FLVffPkTiQvBYTVnIhY6XT5s8TCrYKD/HY18AKVJUeex1r7
+KoZP8vtZjYJrgYkSCY5W7pqmOTFY9+LAeP+0i64duoWp+xw+r03hdbL4aKk6XKb6
+eQi65RHuOHpaUXBI+iqHC0c5IPfGSjyKtc2MgQXIrSL3Ak/tjso5FqySo/AIhsNV
+Zwp/5k3WM+KVYpqcjx/Fsippo9GLZJN469r9oeEO/vw114LaoQH0iUGlDxXetFvE
+g5Y2moxPTiJsQXlWIEn5YJ/K72BbY1FLEaQB3I1ABuyP04yB/Sne8eOtrf8BRAq4
+SfK1WtpvKpfGe7GWpoCAuWVkULG+rFs6XE6QkO02v+YC3YzanNfLgKYftuuxo4Kh
+FDyWvhueE8fQZu4Hu03K
+=+VGA
+-----END PGP SIGNATURE-----

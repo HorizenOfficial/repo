@@ -1,8 +1,11 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
-Codename: stretch
-Date: Tue, 26 Sep 2017 19:54:42 UTC
+Codename: xenial
+Date: Tue, 26 Sep 2017 19:54:47 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
@@ -36,3 +39,20 @@ SHA256:
  ed539095e08c56a332745d73f603494dc673e30f0a04a0bd15baed064e106272 1100 main/binary-arm64/Packages
  fab94e4b3b8a3ebea6b01bc5e5b674cf662373b6cce8fbb3618df14f558f0f79 663 main/binary-arm64/Packages.gz
  bd96a2c84360ed873a876c4f106f80fb7668f4c393f1f9c8817751ce731ab5d7 137 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJZyrCIAAoJEPtwU85JkbZp1ngP/A36fd7u8UuDV2PPhLrcekcK
+9V8O/BQCf+irWadYFbyi5s2m4IkNbcTjbvDyBvH8qvcHxsm+CxpM15uFDnnM269X
+IVBPg+DQzIKwa3fdf2y2Rpu8dEKdRWH6q7+eXsuTRJClpFgBoxZY28v97n+FeNPU
+ItsY0J0yuzsysDs8zeFyXVzFeToLC6CDAF8pkbHL97zGv5Bv9RdzysyMB17jIB3s
+szNpDdJhB5CqHYzKroBOc8S+NaKLb+0C93McM6dMrt52QzprMtBrrDY/4G48S4Uc
+jqtNTHlnPgSehzJYCn4cQlo1JRhGt63y2kWs0VZkMuJ7BejTSoGuj7ISR6h+8ajG
+OhE1S9+Zo/+u6cl7/p2RuQNxPJbHws9W+TLE3BiRYsYcm3ZvS/A9mf1QYIJFzZxx
+wnZyXxiOjUKIYsoTvVdAfdmVPm6cbzCIS2uQwk1NTM4IEmHSoWSL780A7T/G/zM5
+u992k7wCJ5aMv7Jq2YTNP75PbdIdS0yNTK7ihj/hgunx+kaUhFpDUlXQ8FOR+/cZ
+kVrSArIce8a7BzDZUdNxXba9gSzI8U2W7GtiEEicYnXyyP3OFmQWm23m1jY8RL7K
+bhGo2umzBToUDglHcnszvsOOdXAjHjiL5I8Ib3ln7Fdaz+E7Q+cUrSzMOh9M9L9o
+IQhyByVh0kx/SUNvq9JU
+=asze
+-----END PGP SIGNATURE-----
