@@ -33,8 +33,4 @@ zen
 
 zencash-desktop-gui-wallet
         Depends: default-jdk, zen
-
-zenchat
-        Depends: gconf-service, gconf2, gvfs-bin, libc6, libcap2, libgcrypt11 | libgcrypt20,
-                 libgtk2.0-0, libnotify4, libnss3, libudev0 | libudev1, libxtst6, xdg-utils
 ```
