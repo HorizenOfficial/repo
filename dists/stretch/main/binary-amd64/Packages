@@ -30,3 +30,23 @@ SHA1: f51013722d69940b503309064856fc417a66e684
 MD5sum: 16d3e4341678da213e4d39cca632383f
 Description: ZENCash Desktop GUI Wallet
 
+Package: zenchat
+Version: 0.0.2a-1
+Architecture: amd64
+Depends: gconf-service, gconf2, gvfs-bin, libc6, libcap2, libgcrypt11 | libgcrypt20, libgtk2.0-0, libnotify4, libnss3, libudev0 | libudev1, libxtst6, xdg-utils
+Recommends: lsb-release
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0
+Installed-Size: 145089
+Maintainer: Kendrick Tan
+Homepage: https://github.com/ZencashOfficial/zenchat
+Priority: optional
+Section: utils
+Filename: pool/main/z/zenchat/zenchat_0.0.2a-1_amd64.deb
+Size: 39138452
+SHA256: a6ece3c8e79d12be134baf223db6d40e3aa4d28b1e42e6ead38959b924db237c
+SHA1: 13722d70094c72a40ed275b7a1abd27d648f7bbc
+MD5sum: 12b6eedb6994b3fc9125d1cf7bc33e75
+Description: Private and Anonymous Messaging Application, built on top of the Zencash blockchain
+ Private and Anonymous Messaging Application, built on top of the Zencash 
+ blockchain
+

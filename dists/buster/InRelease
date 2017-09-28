@@ -5,7 +5,7 @@ Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: testing
 Codename: buster
-Date: Tue, 26 Sep 2017 19:54:44 UTC
+Date: Thu, 28 Sep 2017 02:27:30 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
@@ -13,8 +13,8 @@ MD5Sum:
  afba258c7dd401e4207f705524e61fdd 480 main/binary-i386/Packages
  7de7dfb65d01f719588a59363e4ea3fa 349 main/binary-i386/Packages.gz
  24ed5174782099cda6607b316004bc6f 137 main/binary-i386/Release
- 00cba93dd75593ea54d6b21a80bb0c82 1102 main/binary-amd64/Packages
- 6751fcf9ff873e57d015d83dad20652c 660 main/binary-amd64/Packages.gz
+ ada21c4ec37053f345c7f3ab1f01e7e4 1947 main/binary-amd64/Packages
+ b8d065d6222c0aa3c3a83e1ff64bdc20 1003 main/binary-amd64/Packages.gz
  854136d3b75720ec59ded8ea6f5306c7 138 main/binary-amd64/Release
  d930cb047f6293fc9ceaa216df61d086 1100 main/binary-arm64/Packages
  f4d4f3b6e5570c1fcf7d9b511185a23a 663 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  eeb66c25a00d8357262927d1d490b9cf61dbcd0d 480 main/binary-i386/Packages
  bc85e0f335a17c90b5a873c4e74e077605796af9 349 main/binary-i386/Packages.gz
  e00d93446357a09f1bd9907089ae617f7aa442b2 137 main/binary-i386/Release
- ad717fa3c5362bbb75468fa190159bd9d1c073e2 1102 main/binary-amd64/Packages
- beb3f6d772bb33278d19d3f3fa26e7f1e228390c 660 main/binary-amd64/Packages.gz
+ 67b64b1bb6ffb93682310c687556cab164c9a45f 1947 main/binary-amd64/Packages
+ d2cef614f6b68c44ca7036449ca8775cce3bf27a 1003 main/binary-amd64/Packages.gz
  5afda223119037816815c9990b72634b36d87252 138 main/binary-amd64/Release
  87309558f005150d90894218e4a72ddee9a3c12b 1100 main/binary-arm64/Packages
  38b20bada557dfaf18dc2930df3da42fd43ff427 663 main/binary-arm64/Packages.gz
@@ -33,8 +33,8 @@ SHA256:
  94154adc856400c8d4ce7c829b8b10343ffa6a8dacbcdf46cd87478592ef66fb 480 main/binary-i386/Packages
  b69838d124d7103f16bdcfa8247f56826a1d63b11a954d314f62d1c0f0fa7672 349 main/binary-i386/Packages.gz
  baae0dd198393c96c89d5a68628062020e2cdde3f2f78dae749b6c9f0d86807a 137 main/binary-i386/Release
- 3bc2ce779284c118acdc81dca7fc1a750b605769d8bc3b5f04c382ddb73bb2e0 1102 main/binary-amd64/Packages
- 78094ef935d2c4098a68e8700bb5415e7f29f27537546c8a18de6478624b54d2 660 main/binary-amd64/Packages.gz
+ 757c3a2f955e031954920e90d6f30e3f4d7cefd78511ecb219a9450acc0a9836 1947 main/binary-amd64/Packages
+ 02fedc2c0f8139a0193d2d0c3adfb76fae150001b3946aa8b6089b060565f3a9 1003 main/binary-amd64/Packages.gz
  69cc89d179f2ef8c593f9503a75f97cc98b318716b3e800cd593657a37aa0dbb 138 main/binary-amd64/Release
  ed539095e08c56a332745d73f603494dc673e30f0a04a0bd15baed064e106272 1100 main/binary-arm64/Packages
  fab94e4b3b8a3ebea6b01bc5e5b674cf662373b6cce8fbb3618df14f558f0f79 663 main/binary-arm64/Packages.gz
@@ -42,17 +42,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJZyrCFAAoJEPtwU85JkbZp6GwP/0ozYhLZYmlPhtmGdMOal/14
-jXrSLY2DBcARdmlrzeQAap9cg6NYIOCysY0exlAW1ETCngSJd3drijUuErli5oAL
-6LiBDgRJbgbUqRiW9bnX5LJ5+WCKHOcFutWV3e4/SFKqKQVYOO3iHzRhpTVwFVAv
-PLVIzPskhe6HqxL3gX/FdoLjZjDP2nRbjNj+HpTTta569osa2NLZ6w0rUlRI6jwC
-Kf5jNc9OnzZC/tK1SCDe9YvI5VJtde4xhsFPC0crKO+5U1HVoILAjbgdd1H3J8oI
-l8wb+DOewXIm8Ywrv9JhBrL/hETceLAg4L1+epjeF0Ayc71AiI82i30h6Yx8Adz0
-hMqg5AEBFh+2bxJlV//h6uOlZE5Y4HWiOjADGJ1Lev61owOJrCTbm/R9qo2M9AsT
-8YmwJzamzRtiZG8XaQVUK89h0JgXTV2cZRSg6wJbI0suabRJwhacPAdDjhBpIzVy
-g7X5vo66rbfgYm7kwrErZWKw/PvaJ6cTR5l83VN5QPzDTJi8QkqkDJlc2/vJxIz2
-DsHUOtepUwegvJHAEaCS+5Wi7D01WOG5+zZwQ7AaaalN869CvACt5Znz9c0x+P9S
-X+3eOzY+9zLOhmfNJYZ1aupoUz0vGhlyIMwHFCf3tZav8XCW9ye3rrwJPOJ9vpNL
-x8f9jKmMU2djSN0bU+m4
-=ryni
+iQIcBAEBCAAGBQJZzF4TAAoJEPtwU85JkbZpBTYP/3yHFh9w5Q1MHRonDfl+tyy0
+h2fbvO7gBWx05r03RncIeHw/IVP+cJkRdyq0IWkAqR0kARwQUTlwoswivtH1Os5y
+rkzE1gVK4pumJOqOz2/zUUYjhw3+PsyvqcYqsi7HHbOmqjnLmf8B8pIgR+w8LYtr
+pzRlLIghCP9t5ypX43LNctIKXc+io6SvX2LkxJWNHH1YGvf3f3oAougxQsQa8P5A
+P6BkntJMc7dSnuxrWhC0gN/hc/utxevP5m0X1JFX9gdKutsdmOgslUrSLShNwZfA
+0S8z8ChZ6d3qvheiuxmbC6zctXF99KmrEk8Ujqjlgfd1Sr1uNEbdRyf1FsnqDQDr
+VWHrFHKZCdfuK7YX0fd/EAdyagr5Qoj53FMnCvBlckAJOg1Vgkk41xR+yGpM7tQB
+Lipl04oxlG1K7MIRMFHszL8ZdZU+ZDZylMO3U6wJQAvj55R/ek9GB3P3Wb34NRqK
+GltY1MzvFZd+/kNAEiP58tFz1A75BNcIho0UEo07HoB24CMO//kUVUFuFM05DBmu
+FQe5hw26KsntZ4/JWHAb0QF+fQXMA7vVLiDVrrMQ8TuQLSzYunGRbnrYBzm7PVK6
+PSzHDAifEN2a+0skjzeDkUN96CNZ+PQR67+BknR2gzcham212uYfwhxhSyKWypaP
+r10wDe/XiDFKkd3LG+eI
+=BsMu
 -----END PGP SIGNATURE-----

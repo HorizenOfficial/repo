@@ -5,7 +5,7 @@ Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
 Codename: artful
-Date: Tue, 26 Sep 2017 19:54:54 UTC
+Date: Thu, 28 Sep 2017 02:28:43 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
@@ -13,8 +13,8 @@ MD5Sum:
  afba258c7dd401e4207f705524e61fdd 480 main/binary-i386/Packages
  7de7dfb65d01f719588a59363e4ea3fa 349 main/binary-i386/Packages.gz
  986f915919ea4c713279384e795f5c25 136 main/binary-i386/Release
- 00cba93dd75593ea54d6b21a80bb0c82 1102 main/binary-amd64/Packages
- 6751fcf9ff873e57d015d83dad20652c 660 main/binary-amd64/Packages.gz
+ ada21c4ec37053f345c7f3ab1f01e7e4 1947 main/binary-amd64/Packages
+ b8d065d6222c0aa3c3a83e1ff64bdc20 1003 main/binary-amd64/Packages.gz
  aa7f943477a5205aac35178a4b430063 137 main/binary-amd64/Release
  d930cb047f6293fc9ceaa216df61d086 1100 main/binary-arm64/Packages
  f4d4f3b6e5570c1fcf7d9b511185a23a 663 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  eeb66c25a00d8357262927d1d490b9cf61dbcd0d 480 main/binary-i386/Packages
  bc85e0f335a17c90b5a873c4e74e077605796af9 349 main/binary-i386/Packages.gz
  07eb469ea58485b015e4e90d15134234bbd64c6e 136 main/binary-i386/Release
- ad717fa3c5362bbb75468fa190159bd9d1c073e2 1102 main/binary-amd64/Packages
- beb3f6d772bb33278d19d3f3fa26e7f1e228390c 660 main/binary-amd64/Packages.gz
+ 67b64b1bb6ffb93682310c687556cab164c9a45f 1947 main/binary-amd64/Packages
+ d2cef614f6b68c44ca7036449ca8775cce3bf27a 1003 main/binary-amd64/Packages.gz
  982ec36454dc5f49043cd1923db2cb297bfea126 137 main/binary-amd64/Release
  87309558f005150d90894218e4a72ddee9a3c12b 1100 main/binary-arm64/Packages
  38b20bada557dfaf18dc2930df3da42fd43ff427 663 main/binary-arm64/Packages.gz
@@ -33,8 +33,8 @@ SHA256:
  94154adc856400c8d4ce7c829b8b10343ffa6a8dacbcdf46cd87478592ef66fb 480 main/binary-i386/Packages
  b69838d124d7103f16bdcfa8247f56826a1d63b11a954d314f62d1c0f0fa7672 349 main/binary-i386/Packages.gz
  c99ed0d4eb691164afbea8ba7af6f46534784c7614fb7980c1db124d0305725c 136 main/binary-i386/Release
- 3bc2ce779284c118acdc81dca7fc1a750b605769d8bc3b5f04c382ddb73bb2e0 1102 main/binary-amd64/Packages
- 78094ef935d2c4098a68e8700bb5415e7f29f27537546c8a18de6478624b54d2 660 main/binary-amd64/Packages.gz
+ 757c3a2f955e031954920e90d6f30e3f4d7cefd78511ecb219a9450acc0a9836 1947 main/binary-amd64/Packages
+ 02fedc2c0f8139a0193d2d0c3adfb76fae150001b3946aa8b6089b060565f3a9 1003 main/binary-amd64/Packages.gz
  1b5c5f52e220ff50cef77b915897b26d481ba9176746f1d0d7b10d214a09d03b 137 main/binary-amd64/Release
  ed539095e08c56a332745d73f603494dc673e30f0a04a0bd15baed064e106272 1100 main/binary-arm64/Packages
  fab94e4b3b8a3ebea6b01bc5e5b674cf662373b6cce8fbb3618df14f558f0f79 663 main/binary-arm64/Packages.gz
@@ -42,17 +42,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJZyrCPAAoJEPtwU85JkbZpRpcP/3LT7YRCuSW7ThUKEIg7SMRT
-gt8d3wJ8xnV5F7u3jzJCzNCFep0iOyFSULUpwgfLQ5V43oRveedCDGOjOkgC8Afs
-RrKlggAFtvQ8pUA9iJhC4AZw+Lfz8nNqqaF+ANzHYtkS2PohjbYEN4P/RHJk24fk
-CNpKAmgNa5MusMdFYvpBs+PiVFJx6DnXoof9A7bbWTNbe1JGjI/BlQP0Jbh/zWl6
-UkrHAoQm7nH17WObm5G3TDQxYTRRy6Wof2hjS+Vwa+u8ibYU2uUzR4Unhc03rXls
-/UVn0HCdQgbU97jDnO9nxZiGo1abc1q+UNFh+leYrKeqMaBnN6lzzxxGjCGU+FzF
-8rO575es2/jlOt8+XypqZQYE2y1ZZCH/j7U1rqyAq54i2zO+Sb3DjW7CY+7FVDOR
-AZSMYdUj5+2kRw43D+pUsN3zEiHg+t/dNYbdLp85puGVaWOoOAq7PNY+ZojRVLYd
-eq5Ga9E0gFS0oWaaGz9xq5TbHBUGPX+9wl6YuTq9UvFwn7xk2GIz5D1WHmcf59yY
-YFSQfpVxCkbIADB9bqNIrkZeS/Lz4mHKwMG3xMJcZSuNXz5zxqEbYoo+e6c/y2DT
-PzWM1wggRgpC1wtU9M7Dk2zd/r41XwHAZ1BaNUgMVq+Mkx8hcP2epSWGbeKEjGP1
-e+3qfgq+53ZT1N+imJAx
-=URvf
+iQIcBAEBCAAGBQJZzF5bAAoJEPtwU85JkbZpJ4wP/iLEKcUomiz3ZEtyutaRHHqo
+kPgOfLnAgpC5IPWLzCAb/xDEeJfXNi6CSTgGbAOHZYROow63sHQXwBJPXb2KuVJ4
+drK9qgtZvbvuXnk0rZZDHf5zLSL6r+c4qXixHGpGYtc/duU2YXxxofEE3arayjV7
+pc2f6hXnL8BHCPDH+IG+S+YiKdE7UL1qmfWFkY8HxyBHq1ppnu1oq0Ay8EbPPJEJ
+ELN8/DXkJCxx5ZthqE1X6OUsIIDwpwt/BhJMFUB0xGqlkwgUbfx+AyeQ7tKcw7/G
+7mMUzy4AuwMT6zmTPMOUs8T0wk1zxHcUkg4/t+FP+oEoQPVsLy9GtZwZzE9udKje
+p0uQ7LuMC8B2tcK9P/sHzd/5hpI/2r1hJ3sJGtW06Wv+SDzmfS+N6g2UV5ukpJ0M
+kXRwSP127HJdWfdn1rO/i2wuxyUUDPmvhSdPQrsrDycVgolXIDQk4+4y6Y8Dwi9i
+KhefZZorrDBarYq931SuWd8OUfrNENN8wmhicWBJkwTB6UIDML65rk5CEV7a3wyw
+xtGcTiXr6JBm1sa4WtNxi58jVWBcMzVKb5PTz5MNw5buA9M069/GZsdCHDzxFSgo
+jqIgqpAr6XSiFoAZW9eZ8usyKRdnUH0GmQrdnZbzq1pOBd025WjMzbhOldvAQBVn
+SScBuN8eYaWUIXvUorMS
+=DDLU
 -----END PGP SIGNATURE-----
