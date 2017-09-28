@@ -1,6 +1,6 @@
 # Zen APT repository
 
-Use the following to set it up and install Zen + Swing Wallet. 
+Use the following to set it up. 
 ```
 sudo apt-get update
 sudo apt-get install apt-transport-https lsb-release
@@ -10,7 +10,9 @@ gpg --keyserver ha.pool.sks-keyservers.net --recv 219F55740BBF7A1CE368BA45FB7053
 gpg --export 219F55740BBF7A1CE368BA45FB7053CE4991B669 | sudo apt-key add -
 
 sudo apt-get update
-sudo apt-get install zen zencash-desktop-gui-wallet
+sudo apt-get install zen # to install Zen
+sudo apt-get install zencash-desktop-gui-wallet # to install Zen Swing Wallet
+sudo apt-get install zenchat # to install ZENChat
 ```
 
 ```
@@ -21,10 +23,18 @@ zen
 zencash-desktop-gui-wallet
         Depends: default-jdk, zen
 
+zenchat
+        Depends: gconf-service, gconf2, gvfs-bin, libc6, libcap2, libgcrypt11 | libgcrypt20, 
+                 libgtk2.0-0, libnotify4, libnss3, libudev0 | libudev1, libxtst6, xdg-utils
+
 ## ARM64
 zen
         Depends: libc6 (>= 2.17), libgcc1 (>= 1:4.5), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
 
 zencash-desktop-gui-wallet
         Depends: default-jdk, zen
+
+zenchat
+        Depends: gconf-service, gconf2, gvfs-bin, libc6, libcap2, libgcrypt11 | libgcrypt20,
+                 libgtk2.0-0, libnotify4, libnss3, libudev0 | libudev1, libxtst6, xdg-utils
 ```
