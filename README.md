@@ -15,6 +15,7 @@ sudo apt-get install zencash-desktop-gui-wallet # to install Zen Swing Wallet
 sudo apt-get install zenchat # to install ZENChat
 ```
 
+## Available Packages
 ```
 ## AMD64
 zen
