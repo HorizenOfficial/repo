@@ -1,5 +1,14 @@
 Origin: ZencashOfficial
 Label: ZencashOfficial
+Suite: oldstable
+Codename: jessie
+Architectures: i386 amd64 arm64
+Components: main
+Description: ZencashOfficial binaries
+SignWith: 4991B669
+
+Origin: ZencashOfficial
+Label: ZencashOfficial
 Suite: stable
 Codename: stretch
 Architectures: i386 amd64 arm64
