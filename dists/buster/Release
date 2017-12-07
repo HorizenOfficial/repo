@@ -2,7 +2,7 @@ Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: testing
 Codename: buster
-Date: Mon, 20 Nov 2017 08:45:20 UTC
+Date: Thu, 07 Dec 2017 05:58:48 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
@@ -10,29 +10,29 @@ MD5Sum:
  6fae01ae2c7cd6cf2f163b160ac7d8ce 962 main/binary-i386/Packages
  1ed8ff711283137b96d2f6a01ee42818 468 main/binary-i386/Packages.gz
  24ed5174782099cda6607b316004bc6f 137 main/binary-i386/Release
- d555e52525a3cc0a9f41088822a4f933 2429 main/binary-amd64/Packages
- 678ad65592ab9322c0d663828acc8114 1122 main/binary-amd64/Packages.gz
+ 611ab5325f88d219293a2ef4f48c5040 3055 main/binary-amd64/Packages
+ 7ddf930a4c443cbd22a7c8edfdb96d71 1234 main/binary-amd64/Packages.gz
  854136d3b75720ec59ded8ea6f5306c7 138 main/binary-amd64/Release
- 3447bb23067631d3a4044843c791a878 1582 main/binary-arm64/Packages
- 29fb5c901463d6dcac40d1d48c811944 780 main/binary-arm64/Packages.gz
+ 33f94ff7897f15b1abba4b2b963ec718 2206 main/binary-arm64/Packages
+ 3d4e6b28bff0285b9e985fd959956d19 892 main/binary-arm64/Packages.gz
  9ea9e3904ee6982fde745d0064d793fb 138 main/binary-arm64/Release
 SHA1:
  2efa04a66271d754e585bc18cb98ce599ecea8f1 962 main/binary-i386/Packages
  303f9b06c2ce17c241ac7c997efa7f16f6379377 468 main/binary-i386/Packages.gz
  e00d93446357a09f1bd9907089ae617f7aa442b2 137 main/binary-i386/Release
- 1ef1e1b70114799b305696fa06a7c00510f0893f 2429 main/binary-amd64/Packages
- c641000f9e17b9f12bf2c3d36777cad43f9f4ae2 1122 main/binary-amd64/Packages.gz
+ ad1d621e3a20d01b161a56c4c35dbcd3113389a7 3055 main/binary-amd64/Packages
+ d19d0c427abfc925a6beb12f35454f233569eb90 1234 main/binary-amd64/Packages.gz
  5afda223119037816815c9990b72634b36d87252 138 main/binary-amd64/Release
- aff276a4a80d4543e460b2f0f50aa77f190d9cbc 1582 main/binary-arm64/Packages
- de40d9e8d8d3ecbeddcd3ba9eb92e238b1540dbc 780 main/binary-arm64/Packages.gz
+ 39996d0f4487ba87914863b9070c8dc6c46ca7b1 2206 main/binary-arm64/Packages
+ a7aaf503c23b3e86e817b90bb77c497a30b94ae2 892 main/binary-arm64/Packages.gz
  10c552d3f3b3f7cded33334d6460ff278d1d5e6a 138 main/binary-arm64/Release
 SHA256:
  9c0680136f2cbf1cd25cb5617ac0c160e68f0034ef36af295dbd01616fc23a95 962 main/binary-i386/Packages
  de5b08e108788e8dd4a393a60ea677ad6c5288c1c8eebbb2eb70e9d9f660c580 468 main/binary-i386/Packages.gz
  baae0dd198393c96c89d5a68628062020e2cdde3f2f78dae749b6c9f0d86807a 137 main/binary-i386/Release
- 50d08cebbabafcf40c9630f57a803baf528111cebc0da6b99e2d63d57e37455f 2429 main/binary-amd64/Packages
- 250a23abe68ad18f9b746b075cdde050acbd5e33206d5150973b898105b461cb 1122 main/binary-amd64/Packages.gz
+ 09cdbe68e829d78d58081ad0bb1e47f5113b7e803bec4f6910e450465d85c0ef 3055 main/binary-amd64/Packages
+ d1e3a12e53411c0c0a7a676c4bd6c90f456238d046023ed716775c014e07c5d6 1234 main/binary-amd64/Packages.gz
  69cc89d179f2ef8c593f9503a75f97cc98b318716b3e800cd593657a37aa0dbb 138 main/binary-amd64/Release
- 47740faea706424bdcd8b3419fdcd35303e585c6e5cbfb86b67d6d646f302640 1582 main/binary-arm64/Packages
- f92b762def628a91f7f93dc1e1a395fb52fd74fb69529d7f4641b2b3297bad55 780 main/binary-arm64/Packages.gz
+ 1042c49c8e0c01b17da3c3ab072a05bf1a1709ee15ddc0aba6dc05b46c8842e3 2206 main/binary-arm64/Packages
+ 36091aac5c9f48e2e237f5cb5419389516586f2628cee51c6696eb0c250c10ab 892 main/binary-arm64/Packages.gz
  6b70c64a5987ba275809943708c8f2431ac8460282fbc552ab9980e950802d5a 138 main/binary-arm64/Release
