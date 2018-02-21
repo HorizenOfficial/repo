@@ -1,5 +1,22 @@
 Package: zen
 Source: zcash (1.0.8)
+Version: 2.0.11
+Architecture: arm64
+Maintainer: Zen Blockchain Foundation <info@zensystem.io>
+Installed-Size: 21586
+Depends: libc6 (>= 2.17), libgcc1 (>= 1:4.5), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
+Homepage: https://zensystem.io
+Priority: optional
+Section: utils
+Filename: pool/main/z/zcash/zen_2.0.11_arm64.deb
+Size: 4678880
+SHA256: 27e268b45f2e9d9e22b2e4bcd7484a208d2769d0ac20f6472118d044705762b8
+SHA1: 4026741f3cf05a97f99bdd04a28549e97ca7c1cb
+MD5sum: e166af81dee60133d19d163c35ffd9c4
+Description: Private and reliable transactions, communications, and publishing - zensystem.io
+
+Package: zen
+Source: zcash (1.0.8)
 Version: 2.0.10-1
 Architecture: arm64
 Maintainer: Zen Blockchain Foundation <info@zensystem.io>
