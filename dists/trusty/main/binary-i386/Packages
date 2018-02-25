@@ -1,0 +1,30 @@
+Package: zencash-desktop-gui-wallet
+Version: 0.75.3
+Architecture: all
+Depends: default-jdk, zen
+Installed-Size: 8458
+Maintainer: ivan@vaklinov.com
+Priority: low
+Section: misc
+Filename: pool/main/z/zencash-desktop-gui-wallet/zencash-desktop-gui-wallet_0.75.3_all.deb
+Size: 8531802
+SHA256: 14ac7c3ec3dddd2c59298564be736249d8a0e297e2904223b0642b96ddd085ea
+SHA1: e25116af3f0a5ee5042b2d4efaaf81ddcfd69a4c
+MD5sum: 5da98a021b8bb1e39d55e0d8c1762c4f
+Description: ZENCash Desktop GUI Wallet
+
+Package: zencash-desktop-gui-wallet
+Version: 0.73.6
+Architecture: all
+Depends: default-jdk, zen
+Installed-Size: 306
+Maintainer: ivan@vaklinov.com
+Priority: low
+Section: misc
+Filename: pool/main/z/zencash-desktop-gui-wallet/zencash-desktop-gui-wallet_0.73.6_all.deb
+Size: 293716
+SHA256: 55cdb4c9dfe68b4edf86133a5b6448bd6cbbea7f5ef0ae176df2fc4882abbcea
+SHA1: f51013722d69940b503309064856fc417a66e684
+MD5sum: 16d3e4341678da213e4d39cca632383f
+Description: ZENCash Desktop GUI Wallet
+

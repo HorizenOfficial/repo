@@ -28,6 +28,15 @@ SignWith: 4991B669
 Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
+Codename: trusty
+Architectures: i386 amd64 arm64
+Components: main
+Description: ZencashOfficial binaries
+SignWith: 4991B669
+
+Origin: ZencashOfficial
+Label: ZencashOfficial
+Suite: stable
 Codename: xenial
 Architectures: i386 amd64 arm64
 Components: main
@@ -42,5 +51,4 @@ Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
 SignWith: 4991B669
-
 
