@@ -1,0 +1,81 @@
+Package: zen
+Source: zcash (1.0.8)
+Version: 2.0.11
+Architecture: arm64
+Maintainer: Zen Blockchain Foundation <info@zensystem.io>
+Installed-Size: 21586
+Depends: libc6 (>= 2.17), libgcc1 (>= 1:4.5), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
+Homepage: https://zensystem.io
+Priority: optional
+Section: utils
+Filename: pool/main/z/zcash/zen_2.0.11_arm64.deb
+Size: 4678880
+SHA256: 27e268b45f2e9d9e22b2e4bcd7484a208d2769d0ac20f6472118d044705762b8
+SHA1: 4026741f3cf05a97f99bdd04a28549e97ca7c1cb
+MD5sum: e166af81dee60133d19d163c35ffd9c4
+Description: Private and reliable transactions, communications, and publishing - zensystem.io
+
+Package: zen
+Source: zcash (1.0.8)
+Version: 2.0.10-1
+Architecture: arm64
+Maintainer: Zen Blockchain Foundation <info@zensystem.io>
+Installed-Size: 21509
+Depends: libc6 (>= 2.17), libgcc1 (>= 1:4.5), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
+Homepage: https://zensystem.io
+Priority: optional
+Section: utils
+Filename: pool/main/z/zcash/zen_2.0.10-1_arm64.deb
+Size: 4668580
+SHA256: a64dafc741455fad3e986603ca2acc2ca03de3d915d212c7c84e198875ededdd
+SHA1: bb253f413473db1add2549faf40116693ed2da1a
+MD5sum: 73e7e25f6cd74c219abe3c2257f760bd
+Description: Private and reliable transactions, communications, and publishing - zensystem.io
+
+Package: zen
+Source: zcash (1.0.8)
+Version: 2.0.10
+Architecture: arm64
+Maintainer: Zen Blockchain Foundation <info@zensystem.io>
+Installed-Size: 21322
+Depends: libc6 (>= 2.17), libgcc1 (>= 1:4.5), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
+Homepage: https://zensystem.io
+Priority: optional
+Section: utils
+Filename: pool/main/z/zcash/zen_2.0.10_arm64.deb
+Size: 4423260
+SHA256: 02b838c7a469da41ae81dbf9cf9e7da3acbf15f7e40313217904d7f3e7bec589
+SHA1: a602f9aec57c29ccbdda044dac87b99f61a9889e
+MD5sum: c7c420582020bdceb6017d24fba9948b
+Description: Private and reliable transactions, communications, and publishing - zensystem.io
+
+Package: zencash-desktop-gui-wallet
+Version: 0.75.3
+Architecture: all
+Depends: default-jdk, zen
+Installed-Size: 8458
+Maintainer: ivan@vaklinov.com
+Priority: low
+Section: misc
+Filename: pool/main/z/zencash-desktop-gui-wallet/zencash-desktop-gui-wallet_0.75.3_all.deb
+Size: 8531802
+SHA256: 14ac7c3ec3dddd2c59298564be736249d8a0e297e2904223b0642b96ddd085ea
+SHA1: e25116af3f0a5ee5042b2d4efaaf81ddcfd69a4c
+MD5sum: 5da98a021b8bb1e39d55e0d8c1762c4f
+Description: ZENCash Desktop GUI Wallet
+
+Package: zencash-desktop-gui-wallet
+Version: 0.73.6
+Architecture: all
+Depends: default-jdk, zen
+Installed-Size: 306
+Maintainer: ivan@vaklinov.com
+Priority: low
+Section: misc
+Filename: pool/main/z/zencash-desktop-gui-wallet/zencash-desktop-gui-wallet_0.73.6_all.deb
+Size: 293716
+SHA256: 55cdb4c9dfe68b4edf86133a5b6448bd6cbbea7f5ef0ae176df2fc4882abbcea
+SHA1: f51013722d69940b503309064856fc417a66e684
+MD5sum: 16d3e4341678da213e4d39cca632383f
+Description: ZENCash Desktop GUI Wallet
+

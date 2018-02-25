@@ -1,0 +1,38 @@
+Origin: ZencashOfficial
+Label: ZencashOfficial
+Suite: stable
+Codename: serena
+Date: Sun, 25 Feb 2018 16:26:19 UTC
+Architectures: i386 amd64 arm64
+Components: main
+Description: ZencashOfficial binaries
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 986f915919ea4c713279384e795f5c25 136 main/binary-i386/Release
+ db214340e5a48076db06fc1d460351c6 3677 main/binary-amd64/Packages
+ 54552f3f63c9d10365aa3819070392f0 1347 main/binary-amd64/Packages.gz
+ aa7f943477a5205aac35178a4b430063 137 main/binary-amd64/Release
+ bdcf2321cba5b13e8d3a7ae5b6b97cb3 2826 main/binary-arm64/Packages
+ 7c1038d86117b327557f2b5c029dabc9 999 main/binary-arm64/Packages.gz
+ 937ee4ae6afd24e0927d1be8fb9994f0 137 main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 07eb469ea58485b015e4e90d15134234bbd64c6e 136 main/binary-i386/Release
+ e9ef757ed0e19dc168681b949c6f136c71491bb6 3677 main/binary-amd64/Packages
+ ffa4e577a51d68eab9298483fba5cdf94e862d55 1347 main/binary-amd64/Packages.gz
+ 982ec36454dc5f49043cd1923db2cb297bfea126 137 main/binary-amd64/Release
+ 7c316f0055c07ac4b8912a56494454379d51fc26 2826 main/binary-arm64/Packages
+ e22e8e4b7e46d0a81d81a18875075d9a21bfd821 999 main/binary-arm64/Packages.gz
+ c9c6f50afea1c41795d131704381f0fd16157a66 137 main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ c99ed0d4eb691164afbea8ba7af6f46534784c7614fb7980c1db124d0305725c 136 main/binary-i386/Release
+ 3e8515ff3617189154556803420f4e219dfb01f1a98c143dba97e3b30923b79c 3677 main/binary-amd64/Packages
+ 55d3732362cd4f9da240cf9d65ab670f0dbcf826ce8cb4be8064177cc0efc6bc 1347 main/binary-amd64/Packages.gz
+ 1b5c5f52e220ff50cef77b915897b26d481ba9176746f1d0d7b10d214a09d03b 137 main/binary-amd64/Release
+ 26106cb58a28cad6dc523c232684fe5a19c0abc62d9645abf298021b74a5a07d 2826 main/binary-arm64/Packages
+ 527220a66865beba48ea1e9ff393e50849b8198ed6992118ba1a64a56836315f 999 main/binary-arm64/Packages.gz
+ bd96a2c84360ed873a876c4f106f80fb7668f4c393f1f9c8817751ce731ab5d7 137 main/binary-arm64/Release

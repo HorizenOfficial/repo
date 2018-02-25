@@ -5,13 +5,13 @@ Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
 Codename: trusty
-Date: Sun, 25 Feb 2018 16:05:03 UTC
+Date: Sun, 25 Feb 2018 16:24:14 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
 MD5Sum:
- 6fae01ae2c7cd6cf2f163b160ac7d8ce 962 main/binary-i386/Packages
- 1ed8ff711283137b96d2f6a01ee42818 468 main/binary-i386/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  986f915919ea4c713279384e795f5c25 136 main/binary-i386/Release
  db214340e5a48076db06fc1d460351c6 3677 main/binary-amd64/Packages
  54552f3f63c9d10365aa3819070392f0 1347 main/binary-amd64/Packages.gz
@@ -20,8 +20,8 @@ MD5Sum:
  7c1038d86117b327557f2b5c029dabc9 999 main/binary-arm64/Packages.gz
  937ee4ae6afd24e0927d1be8fb9994f0 137 main/binary-arm64/Release
 SHA1:
- 2efa04a66271d754e585bc18cb98ce599ecea8f1 962 main/binary-i386/Packages
- 303f9b06c2ce17c241ac7c997efa7f16f6379377 468 main/binary-i386/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  07eb469ea58485b015e4e90d15134234bbd64c6e 136 main/binary-i386/Release
  e9ef757ed0e19dc168681b949c6f136c71491bb6 3677 main/binary-amd64/Packages
  ffa4e577a51d68eab9298483fba5cdf94e862d55 1347 main/binary-amd64/Packages.gz
@@ -30,8 +30,8 @@ SHA1:
  e22e8e4b7e46d0a81d81a18875075d9a21bfd821 999 main/binary-arm64/Packages.gz
  c9c6f50afea1c41795d131704381f0fd16157a66 137 main/binary-arm64/Release
 SHA256:
- 9c0680136f2cbf1cd25cb5617ac0c160e68f0034ef36af295dbd01616fc23a95 962 main/binary-i386/Packages
- de5b08e108788e8dd4a393a60ea677ad6c5288c1c8eebbb2eb70e9d9f660c580 468 main/binary-i386/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  c99ed0d4eb691164afbea8ba7af6f46534784c7614fb7980c1db124d0305725c 136 main/binary-i386/Release
  3e8515ff3617189154556803420f4e219dfb01f1a98c143dba97e3b30923b79c 3677 main/binary-amd64/Packages
  55d3732362cd4f9da240cf9d65ab670f0dbcf826ce8cb4be8064177cc0efc6bc 1347 main/binary-amd64/Packages.gz
@@ -42,17 +42,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJakt6vAAoJEPtwU85JkbZp8b8QALkPboF5UOmHxRGaeaaK3DzY
-rhbJ5MKERIq7YVOH6/g89O43Lrdt4Q/Sumux0Ln+l4VTE9BOpaaIu5yavO53s3Bg
-SAZIDw4kT/AxP/urCGmK+OMFgklJUaJUcF1FHikn63GlJiE2U4XFKlbv7iD2kefT
-w9BLJeYdIGg3Miefl91dxWGfuZQ/Ly3IYCBD89omuVjCTMNwvOKfCwVPaDo2iV9j
-ttmMtjvBZPUqoa4ofTW7HwYjy6jYIrmBTJeErfcw30k5Kw6taOGvgPolBBiRrSUH
-l27eXxtI9y1gcKRh/ScGJgVLq+rAGZ9YE0eLS2Zh2wT/kWqieMHeOZVxvCjKHncw
-bqt/2CEsmbU0ATqLyWzLROutNz/hHDmtZs5h0PVoey2nMOzPEHzh7wWfy2mmC/4Y
-uTWnbdRrgGZNrpnf2iwzJMTSMinmaNSZoGMNlQ5dOa2W8wCCa4WO61b6VgC4VN62
-Ci95I1u1WFF6ASicmQB0KVNNR9qINl/9/dn7DPjICOT2Tz5Jj34K/d1qQM8ProbF
-4GIfS1xG4CTFTgc4bGF69UxJogN8Uoty6uP9ICuz9WIkjFFPKyzWeP5aHN/jY6G1
-CREI3A223/zOnPLVYSyNhJpngPY2l3OXa+j7FFU4rvxNbd90In1UuYolAtjF7Q+p
-1gKSJBFBOdZQlqCL44RZ
-=m/cD
+iQIcBAEBCAAGBQJakuMuAAoJEPtwU85JkbZpn8EP/jBdke1aDL3lpI80frpz3JdI
+di4vLKz7R77+FbC3tsXLLAEc8W/ignXsfSsbho4Kubp98oo7Vi92o4NDXvSYOPbt
+0b0vz+2cyjwO6J5evT8E91X6sShddXtzDNVrdMKHbOjfQgL9Wo10m9QhyDUMjFUB
+RlRxHx7woCuOpBUmwYJgw1F2SXfarZIytsunAeDhb9Q68NMBPqKWLJPN9X/jftJk
+GqvnaivWEBeYVoqEx/Aa8AOWcB5dRAhnLe9IW1ysrEY0ct4lzHpCd2mv9GXKtZqS
+C0HftUCaLG6c8aM49Ttqr3Muub14l63kDDD+1G19G+vZwxKst+vnhBY+E9WL1uSa
+laJu40bB6QnL/Dsi2kppLhIfm6d9GOCnau8EKBk4YcnnR987JbFnOy1wZtRB2Qm8
+LDKyo/EKzk7dCyHeQhRb33Q/IfIi0cyS1DWJD6lDppQNj2LzGg4n9bclSEaffTvY
+l6k0r56NpmdDS5xxNirN9TVYC86UrnPOdzse5XjuyfaX8p4k+/f2i5uLeedFQdXt
+P0HcPxN3WZoZXL0M7miheDql/PTP4NGinv+ZbNB+u2q3wie7v46Yy+KQtYUugzVH
+bNiwglE6uG7OVE3hs6z92XiMjmNnNQcu9FqAcVgOgYC4HhUgjopmJVO0FsFzMhe9
+kFNu4AAYcdWLWIXHLe9A
+=YexM
 -----END PGP SIGNATURE-----
