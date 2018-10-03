@@ -82,6 +82,21 @@ MD5sum: 71c5c9966ae65b0765bc24104b096307
 Description: Private and reliable transactions, communications, and publishing - zensystem.io
 
 Package: zencash-desktop-gui-wallet
+Version: 0.84.2
+Architecture: all
+Depends: openjdk-8-jdk, zen
+Installed-Size: 8500
+Maintainer: admin@zencash.com
+Priority: low
+Section: misc
+Filename: pool/main/z/zencash-desktop-gui-wallet/zencash-desktop-gui-wallet_0.84.2_all.deb
+Size: 8538296
+SHA256: 3260ee6ae4acfd16141543fc1fb0fc878b17c3deb70ac39c2ed30f083eee5757
+SHA1: d8758f42644b0f280f01efa71910ca556dd0820b
+MD5sum: 23df1a8a1e1c0416463aaa732e3b35e7
+Description: ZENCash Desktop GUI Wallet
+
+Package: zencash-desktop-gui-wallet
 Version: 0.83.2
 Architecture: all
 Depends: default-jdk, zen
