@@ -5,7 +5,7 @@ Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
 Codename: serena
-Date: Fri, 04 Jan 2019 06:13:50 UTC
+Date: Mon, 01 Apr 2019 13:23:40 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
@@ -42,17 +42,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJcLvmfAAoJEPtwU85JkbZpS+oP/2P8kliNHr/4n4+CwpkeHRVL
-q2DJO9ippIu4kdhv5AqXl0kJ2XmnrsSsNq+5rzeQf3LtEjQWQF6vXdcJKmUQAOEG
-5tbH+FJDTb8wnBDmw1XrKj5eCNMqdg3gn5RtMCGZE67vO2HblyQ/WSGCBEOImEnK
-mOS0FBVDMJJJoYEkzlBAb0bQJ/JWeoGu+Hpf94HQih78VKP9nnxBkObFJ6oa6RYR
-ulzzzwIdRtyITrila4hVdrvoGNu4E5kKufOnClr1PZG1Xl6ki7K/I2+p+eV5+BTE
-nztlOUGHfHXFTQTYQvNePziz9tGjL4LyNzWOMBW+MojCEEqu07FhwKRAnHYTYmZO
-qd+qAwcJlo1xi5Igf48LClTcmtNfjX1wWdB9WW6gcdyiMiATwlwfvEKkoHmL1bXe
-U9dXlKk2HjwfpCdfIZ3c7HoMDBtvS3Qyj/077obgoPPk+mprw1K810xwSHlirvL7
-LNtD9vLFGV1jfdezdgjDojrzWrM4XCrb75gPTRWV7BAqnkXMIgMRZ9tnb0acCazx
-fs6PoQ6CZh1ExfsPydryFTRZGy5KsCGzDOarqg7TpIytz+q3vJqK5qCOryvZJsGT
-8KEMdDzxLMAYG8lhMyu7a45q8MJ4nWkXktzUEwJ9Sex0fWisspsaznde1RKgVlv3
-XChZsgDRTjYRo++LPkvr
-=nvw5
+iQIcBAEBCAAGBQJcohDdAAoJEPtwU85JkbZpb8gP/AhuaEjAw0MJ6E6OwPCaE2h2
+J6inM1vwzSpvdc5h0oObUV9pKS+XNAlR9cURpCGzr0HFN6pAjLK1is/ipEDvIjJ0
+4GuGp25V2QoZw3pten70b4200UQqEVWne0RzMzAvvP09/5N107AKfErK3cFoL+kV
+t/A/h/jR3ltbXYPaoVfsxKMKnbg1V/RptDYtRSvXM6ni21f2LliOyYZ2njIElvE+
+C0gokxcmwvL/lbhbIbbZ184q+b/rj06WVXVDO5TYU7amfRevnEY6FwzFJOyQNKT1
+fHsOrnlMEAOHu9dIwR1pShgCS39gVn8fDJn8qchmC7minfBH5DQ5bqN4teqMUsn6
+U/sAgvXcG70g2Se/04IhLFlw1tBD/5uXB0ll8xHEEMPj+uhewBddvFxqXPEKJOyc
+JlO59iCTo3gb/e+KG9oi0J53eIY69vxiPaZlzHS8+M3e9I0Kwg/L3gIgoBLkukl6
+QkZmSrLAbYQIOik9GBEFnKM0zwgPjenMqnP6MDAfxyhZxIFKsgolLI3vBiqMdQo9
+5KWDVdZ/71NacXYBd3ZZpCNCwoOewBFwvFgqoK0m5BkXMwif/SDxErl9iQ/6lR9B
+87c0OyIykxDGuz0XK4B0uXRmQu0osAQxmueM/QK+zVw4HWCq8xvYyWEV7Ete7HOb
+HNQ6U++ZAs0R3q7MAO4K
+=ObVA
 -----END PGP SIGNATURE-----

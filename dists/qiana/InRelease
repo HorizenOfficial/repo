@@ -5,7 +5,7 @@ Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
 Codename: qiana
-Date: Fri, 04 Jan 2019 06:13:39 UTC
+Date: Mon, 01 Apr 2019 13:23:27 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
@@ -42,17 +42,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJcLvmTAAoJEPtwU85JkbZph8YP/1ypqPRp6SzavLU9K6n3iVmy
-VR9Nvn0wM/GgFR+a3G5+0p90X80LrXon2GINXEkn9mk30Gwi01i6GxvngZkjkPBs
-x1hyskEtKYYW14solrIXTe8CW06UykVJWB1JYv9e4fbnRXP97m/O6a1b73GdvE/5
-Y8tvBsj8liqYvtH7m3zsVOYn9tK29iZL97ooDMQlZ/y2qhkFgemuVeeRCbMOwjfG
-eDtBwxgH90rSF7fHr7L0qX1V7ub+1aUFyyuZchPUrEchbZDTVjwC/WRbyks5dE1C
-w1j97KyayrwB1U10v3HqQnNT9egc0ru1hc6HribOaf/NkfMZSYMsZiT59ihIAe1t
-Hknpo6z5g3hDwr84LGw4KaoT24SkP80POiy5At2WAvOY4vPdy9ZCI3/P+bubISGN
-iXjT0T/+wzdvYihpTI8CuSeE8vxyVQZZETZ7hPXb7jz7uynv8amfs5WV9RyRfNX3
-J8KqidHki+TF0MiLgUxIDMhVNkE7WkxG/d6c1Zq85sGkN8spGaurxhy8itcHwDxA
-vL4PeFEJFdIK/L/7rGIiwOyjo1rhh4n1hhJT4ph3tr2nXUrZQ+ZCyZPvn+YtQrG9
-yPo3GvTUCXMHC+aTUUznBOq5hJoZr6ZSCrdIaoUp19Mtea94czK4Kz0JxF9vJ+10
-ZcSw3xHNc6RR3OZ2ruXs
-=NXh1
+iQIcBAEBCAAGBQJcohDQAAoJEPtwU85JkbZpvd8QAKx+srDpAOySIDnc8ZvUakdA
+MaL70A+/etymEUNJodQwg2OWhzJhPnnqP9tf1VVE5FQsNCxchvCFOlJYP1xRCDpy
+qksxzOYofuTGUfQuulTG0V1bPrkPYhB18L16Crc7A75d75RAspuTnn8C+bumuSeP
+ALaTZHx7h9DhohOG71JjDCxLg9M9x76kwbWnTTqLP3ljXE/JgseVzrf9a6QfPFCp
+zTxDPrA31C8OyKda7/v5VgDjXPJIn5Bo9sHM81HCuG2o4AdyiDnb0P4znhM/ehZN
+lI1ObgZz8tQPgzeeZmeXFt70ze2yZrTymi+s2KiOmh8rK3VJ1ZuxlYujIX1CqV9+
+ZSKYlAN6WBg7jjPyCwoiv/t16U22Ut3puOygEHvDd/IRczWBXeylbLR/nopKac2H
+AuwzyXvCWFjEYmVIjyrSKjU+9RSHSt7lXOigI2ueh5YBcvaRYMpnPshNWYb7Nvq4
+P3rK446RkI07u0bNXh0U1MENCodoHEO0oAvjUF0oglVUTZkJ3V/KKvSbKzaqKFre
+cyoHKoryMxiGMElMZuw8InNERaw2MNhTPrpunCQLDLbG2yrNacvPOh3RhhcY+RmM
+jf+1DJmIAwQAr78i4ac5TgEPACacyrRZt/aBjdzM1QOTU6WLyJo1SEx9sQhB5Xd4
+H5N2IrtBtpKl53zJ7OMD
+=V/QN
 -----END PGP SIGNATURE-----

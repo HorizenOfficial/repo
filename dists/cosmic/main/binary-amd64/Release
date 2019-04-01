@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: ZencashOfficial
+Label: ZencashOfficial
+Architecture: amd64
+Description: ZencashOfficial binaries

@@ -5,7 +5,7 @@ Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: testing
 Codename: buster
-Date: Fri, 04 Jan 2019 06:14:02 UTC
+Date: Mon, 01 Apr 2019 13:23:53 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
@@ -42,17 +42,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJcLvmqAAoJEPtwU85JkbZpfzkP/3ABiOVUoT5piaGz3yqhchU/
-zJLrHAV1X+NNvz9U1OIA7nSYo1r0bPLM4NJWAXlmjdU6TCYp5gs0EqZscwgCg077
-KYpTIevt9JcIrCxODW/k5IneSrFdk1IfaW5NFCMP2bLkjJpP2nqwM+KGoBiczvIv
-e/ti964AXWi0xhEvlb0H3LOr5dRJH0PN3c2YI4xzkYd8E1uFd/ePT1Ti0VjQJV51
-X18JpjDWNWMbeTd6TUDtDyBzTUlT5zAzJ1ST8sBvX1K0JN/gwWZe7abl3t9lgd1U
-tYhzo2s1/5g/hrspLHR33Pab8kHKbssQrt3mOKox9Y/q9JGEvN7bYB0yq0nrMkLs
-6dadl3XoLgGX+9X/Be5ue4Q2/nmSBM13gdx5wboJu1Ofa7vZH5Tev3y5/5bQBrcp
-m5v/VJ6vqtO8AD0miLTKSTdZlklkBYnPUnUCRv0wApINqkhn/Z7wa5wywdbzU4EL
-3FEy5GzHxAgaHJD6t38V7x3apdYcOXnNwH6pV/25Zxnl43E7PrqHXKi6KycYqSNz
-Mkv/hjtpvSAB1iSjd/yP92WkcsML38QLZbNDWYAPy58S1iXIxF+X2fD2RZfLzhg+
-sDz0ayDuQ/V6NYty2EW8AhBO6/GYR9FqJhWdFEGDM8KssZpVhzpPiRnsRfkD0O2f
-y+JoIfSmVIjPAZrPXaZc
-=l/c+
+iQIcBAEBCAAGBQJcohDpAAoJEPtwU85JkbZp68IP+QFaRw8xikP1Ub1f42YmwC5v
+IttOh+9Iz2PZPyiWxQ/u7PeK9m8np6GG0rFQEYnxmQaybqoRwM/uHOto1q8MBL/b
+2i9LidD7HRBramSBux6gcWTVTcTMhmimc2ZYxzWhlcRgtXWVEve+kTFBgJanopy4
+PCRyEnwaZ9Ce1Pacv/OSmoUcDgXfAmU8eNYg+xB/9ifBhBDxTvc9sszwtAX2RLCc
+zpfMpV/aTCv/cSWBg/1sK8TU/gkDWSD03/LhVGQrxkXkYL8zFjQb1W8xudLPl6l4
+R5ATTtjw69YjCWcKZktvcpbnGGXSgmOzTU2tdgdqpMqx1eFX1UZVwULOfW6puOIT
+EsqeOzLC03WNtnchfmxXFo/BqmsctHagLC+cJmydXebdu+aCEUsfB/+/SdwgWPOM
+5yC1sgX3l8SxwPomc6WsWZ3K0OT08jhudfdkqtW/ZxSvQBE8KIT+WCHTO9EQN6Iz
+OJj1PRvo9JKl0DX5VQcgNfrxosd0kmGJ/rA2VmpoL9lwTzgI/BdTa851kCpF0k1z
+wuaTev4cKFLdBETPNtGlKbY9PiYHVa5GEWK2cY/5WTzL2UqbT502XaknDPJR6Woy
+BS6+6QsJCLz1b+2xiBz3qJ2MNzbtweuc+5IIO9WVLcTvyy4uV4FPcu96z39lRYLM
+Ej7NrrMeh9qNTZtCSUNl
+=dcbL
 -----END PGP SIGNATURE-----

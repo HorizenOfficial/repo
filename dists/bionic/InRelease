@@ -5,7 +5,7 @@ Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
 Codename: bionic
-Date: Fri, 04 Jan 2019 06:14:11 UTC
+Date: Mon, 01 Apr 2019 13:24:03 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
@@ -42,17 +42,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJcLvmzAAoJEPtwU85JkbZp3zEP/1yD/WcKyCcc1K5bhbLRiXfi
-pesBGAnQB2ZnVPpZ6BaXlMCig5UmBy+zAosr6PsfJb6LLjB8R/DBLa1R5Awe+Hid
-Nv77gN0rimxV7rMtzHh2mZ1oqT1ZhHJBKzWP/PJdJC7QR5i9YLg0dy7G/I+7V81f
-QWW231aoaBTxDAQiRzqVj3pGngEsrFaOPNSFkjug0mjNlFZhx/O2wvLl94GFwoll
-0bWdAB7aRXD+if0HrtoYeeNfPXT3r4bgrnQ6jI7EJkNF6w+TzZolL6XYB4tHIc9Q
-Y0aWDQMSVczhS0SvknD3rYeXqR+gR0uht+UMz+LoIEGFvQQfN3aHuneA1iqYqvoQ
-KrDalMmeeiyvKiGsn3Ef+s4Tskb/Vu4CsVfGVfqM4StiSnaEvP7dhbLTjqQb8yz/
-MQlv02rSiXgo1fRnQsDAt/iv+JIP9Pin5HMomCIl31NPtHyFcVx9vtIE1i+RMfn/
-S5SzIodwIZL62eAHZ69mD4tzm/P/BPSU/BxdkvLDodzfS2QgKZzqugCbHCeGcpd3
-sGMYzr7oyj0d3j3aAW5jD5uTbCmkD3s22x48bHpAcfa79Czfy5WOgpwuFY2GHzhp
-PvhoNTftB/GdJQotz7tidpfR6ZKGOuPImMUsjYX+6dKTMPHo5vd3+4ymwbvDQ/ry
-Ec+4OmOHinpibLeNzWgT
-=/BV2
+iQIcBAEBCAAGBQJcohD0AAoJEPtwU85JkbZper4P/1CARZOB30E3LIfSDfYPqxvj
+EzkN8Q1gzFvVZ0nL635HtqYtx44Z9auo0JTWsbeIIzzMX6kulybyhCNpPBD7+jM2
+mZtIVeyFC7fmLUVS2S+Ww3QEF0KFgnYOyVGQntvblJ2V6ass4vaXcWAtjG5PGfC3
+qDzvNY61BDESgn5zQpjoMyJv6XLhK71KqTh5fpE+zOIsimyAo57zIONLmiFHEPGW
+v/R/miY7IDSY6kvmBr2M48EHKFPFclF/05mcdqGNx+ueF5igJetL2ZDuNUBraWCi
+DMrDpUGab1gkydU5Dwr5QDunOzQl2APDFu7aBD5wJNvRYx3Brttz1lCEuIjpTAxY
+yDPILlGTWSea/2QXvPBvbPPCp/KzMHy0xJ1QprDnrbq6LcBWU3BdLSREfXoFw5f3
+NhPw6EyTVqxL+6BKML/rMFnhs0dHgrpbHJ5RS/KYok7ulxXpwzmrzQPg0zKPQ9eJ
+beCZyOlqWGrQr6i7gntp1mHkf7iVroEQAkAFzI60WY/k9efnoZEWory+cjGtvYOv
+kwlIk/GcL8MM/KNcWgK0Icz9ewfDfD/mnsbyIo3bUJMe5LfuqtvGsiW/gTAcqtHf
+SyT6piywjQsw9MvBmLQhXs8YvwyVgVYtoT7RaBRP0dyvaZjYX/5xaDBoPfkYQmMd
+Tb9JniSi5Fs/EFrygyae
+=xs8f
 -----END PGP SIGNATURE-----

@@ -73,6 +73,15 @@ SignWith: 4991B669
 Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
+Codename: disco
+Architectures: i386 amd64 arm64
+Components: main
+Description: ZencashOfficial binaries
+SignWith: 4991B669
+
+Origin: ZencashOfficial
+Label: ZencashOfficial
+Suite: stable
 Codename: qiana
 Architectures: i386 amd64 arm64
 Components: main

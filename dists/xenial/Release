@@ -2,7 +2,7 @@ Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
 Codename: xenial
-Date: Fri, 04 Jan 2019 06:14:06 UTC
+Date: Mon, 01 Apr 2019 13:23:58 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries

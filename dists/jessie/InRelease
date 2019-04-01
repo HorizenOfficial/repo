@@ -5,7 +5,7 @@ Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: oldstable
 Codename: jessie
-Date: Fri, 04 Jan 2019 06:13:57 UTC
+Date: Mon, 01 Apr 2019 13:23:48 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
@@ -42,17 +42,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJcLvmmAAoJEPtwU85JkbZpqT4P/jqqg6rfHX0Wfqk8TSWwnd4R
-E68k3xGxSg+XiHOhSa3fEul857KZ0JHb4THYBCTaChzwhxDGYqcMb78HrL7WgH3N
-ElCTf4RcD+xpS2NHdtjSWd9LenTumpJXa2tFq7CMkLqrDXYz3HXIP43LPTvY110N
-Aa3jaA37zWLK2b/eRflz/p2hJWRxb5MC+SF1I+HSmBm1S5Q0yOE+CbOyneEMIBxv
-e2nCd5wk0Rn/JHUsjiLOC1RVQHxaOP4EnVhVLqCKFiWdElxVYHokTp+1nKdHz1UW
-g8mgqRIfbk8xqbVvnF/BM3O2jjNG48VPy5vpJPD2dpCiERRdB1DH8le2WW+bUWxS
-xKspM9bXHmelzucAdX2yskyWOqy+injG0IanweD7HjYKzzuFSpKwUWZNuO/rSTNE
-nNTv702/cI5zn/B3a8rIwv8wMYNxaxGCcjIk0Tor2oQwnVjTfug9zTvAxnme+JGY
-TBAAaD4pkRqvgzG94UqqHN4nb/juF8NFubQDfN6VF1eCmXqDQBMdKCeJg3drfjSP
-m5szOjF/SbynA/riZirfGhDllOW5hwMaw2h25rOd98/vSiALTubAQwy2DtfPhk7R
-2Q8VZYgQQkJZwkI6yHuw6SCPPJhiha/JxsGTK1DZ6wPZw/BlKmXmdB8FYA5zIOj4
-s1POWq56NIylqTgEwBxE
-=+y5u
+iQIcBAEBCAAGBQJcohDkAAoJEPtwU85JkbZpHqoQAJTL6ReuWb5IY3cvJWhvhph6
+/BWaKNSJd1atVq9X4WMRWGaLUj2Z3IosjhjZeOkO7a6lIFmBxIEQ2wfW72LFUC8x
+vjNM9pydf7Q3sKtfF2ozj1kPoyKdIhkMXks5unJyO2nvNQvxGiqe91NOxgnl+QJO
+viBS1mrFg3F7VhaKjPAOKeCQXcWzZbyMK/Tnd2JeUyIR5UqqsIEyFoOSdW4p996i
+YPuTzb3rAl/819e7dKHu6Bmo43eDf7u52ijPiG+fu7POnLRToQ/E4gu14wfzcFZA
+ZS9kg7WeoYHl5/r3Snn+KjN/OQXrOM0BMug49WkOxNFyP/CMN16v7JI9JWzHjn1I
+TgbAFV4g1ld1w5m+3/bJRnDLhdTzHnU5gYluWyBYWZ4fk4YDxp+AUK6Cvd7rdsbn
+FhXgBrJmUdT8kQQU+xNCokFcehOWbVePNqSdScr1+MfBYgAe9eNGh+erf6Qyz365
+4wzbfqM8TVv70i4+6Jnek2qqfZys6j98ppW/a847nXIfIo6XkKv4Ls5prCLJRULz
+aKYlR2XHrf1/ld6lznjkZu4J9vpKlLEL1wmBZbyTowT5hVF6fiBdnqddhXcnIwi5
+TbIrXr23URS4Tp2RoaiO/3RWAw6HAjR4oO/dS+aKsDZu74+BhPeHxXsRRnv6eAIP
+NjH/yqn9rx2+WGTmlDQe
+=/Y3p
 -----END PGP SIGNATURE-----

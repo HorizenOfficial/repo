@@ -5,7 +5,7 @@ Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
 Codename: sylvia
-Date: Fri, 04 Jan 2019 06:13:55 UTC
+Date: Mon, 01 Apr 2019 13:23:45 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
@@ -42,17 +42,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJcLvmjAAoJEPtwU85JkbZpw9EP/0ZX/N048QRhYULcR59o0loG
-OEJHXZV6Lih0nWvphTmNfFfwqIjHA8MyBS0RxcIdPNELyI2qyq/XJZe6sDAestRp
-8NIF8ggY0WFwStDlRl8/syqlhujCy50ZVWDWb4gyWxXXFpDowpyHJrmpHng35gAo
-v+AJdyDf9F/h0cZgAzz7OX3SenMRs0o+4msfWkZfCoFaen108w9JVlYJX0cxnvEJ
-jmb0mwXhQed6m+buH8yWKTfDX4wIZp6G1ewlkiyhTSiMS3crxYuCcE8gW/pNXt2t
-T/slwXDs2mWFkaxVXgRM0K+toND+Lk72RxkaFxYSjEwRcGWEJLQwZtPl/ltg5Zff
-L04e/qAul1PzE38na7gsPXKezTmtN0ZQ8db9XXe5LQzt5tlyYli0VAILZghGCukv
-vQ4N8EtGglBe+XrcyAeygAIVEydTwMrxGRd29R/CL47geY4JiEMHWA9/yLub6Spp
-e6GD0aeSA8n4p2PR03PAAkUMsjihLaSQSswWnLaIeM5GU3U42CRLplzTj/4BsXjI
-rKYymGcg6D8NTTUWHsOfiuWaFwVVWMRayZcDnyp/cxT5/va4anEsg2qDlyckPQD2
-dF6jCHN2trneFWoxGKsNtcgjxvnbSqObJYgRbJKe4y6pqT7hrX9gUCYb/vGwYZab
-2+SsRkUONx/2P/h8ODpU
-=RkVB
+iQIcBAEBCAAGBQJcohDiAAoJEPtwU85JkbZpORsQAJnvBTWcOyMw3z7vf282Ezh7
+GzaM9F/jketDcmvT0qW3I3445OtIZrzqwP85ylHjbLB8USxal8RfiuFYV03DGWuc
+Q0W0JOZy2xTs/OVvoc0MYYYxYmkQi986SaKPLAIx+ewsV4y3nzugcQSISw5AcO2r
+NLUZT6epPfnEqmhFLj3WBDnlA7LCBedVahxr7v2KzRMC3gvxe0mT1VMGDYgxK9LW
+AO9Xgnzsy2EOhaI4JG4lZvDTyw4cklrwsRXdIu2Js+rfyVHNFrOUeKN+fm7pglp+
+8v4pNX1dCv7CV+E3Gky0FgamU/ZWV8QAjyiO+lu2pJ5Izww7DMO7ii2ss41tqZCF
+AV7saBvAgKCzh8cmumLvigO2Ol0ZvHLTzpF5bIV7536FUM7VW7ebCQlIIuqPKpWt
+hQlRIfE2fPa9sDF3Eg4j+2UJOfXQaYyNcNGaLzWRGJJxNjqGMkRsM1/i7zeuVuav
+mOSmln/7Rlb7pJC9fQ5tLmhVxEbjQY+E1P1NFfJInb81iQ9GsN//Yjg3JwEX3Sx+
+e+KhqZPPYuDHKJpWGSmYx3nxa53x/cG+YwCNS/6Uud0fD48ZnqDHPKCZvDhCS6tr
+kqK0L+C9foz9u3FUgLyy9XAxXuY7d8ssibvmOLDYi2S4QVQkQzMD3Y3jlIDTm01p
+2p7BlZM0ZGbLu9VgBWZL
+=Y/6o
 -----END PGP SIGNATURE-----
