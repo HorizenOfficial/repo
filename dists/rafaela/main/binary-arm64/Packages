@@ -1,5 +1,22 @@
 Package: zen
 Source: zen (2.0.15)
+Version: 2.0.17
+Architecture: arm64
+Maintainer: Zen Blockchain Foundation <info@horizen.global>
+Installed-Size: 13996
+Depends: libc6 (>= 2.25), libgcc1 (>= 1:4.2), libgomp1 (>= 4.9), libstdc++6 (>= 7)
+Homepage: https://horizen.global
+Priority: optional
+Section: utils
+Filename: pool/main/z/zen/zen_2.0.17_arm64.deb
+Size: 3603012
+SHA256: 7edccdf6f8975c1f18abbab4d62a0300e9aaf11961b4664a2c9c0335a5b02bc8
+SHA1: dca587bc6928996fe40d2246dd9bd27ac68be034
+MD5sum: 421eb9bf9cbad2e513cac5632b5b5eeb
+Description: Private and reliable transactions, communications, and publishing - horizen.global
+
+Package: zen
+Source: zen (2.0.15)
 Version: 2.0.16
 Architecture: arm64
 Maintainer: Zen Blockchain Foundation <info@horizen.global>
