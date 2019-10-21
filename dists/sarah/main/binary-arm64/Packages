@@ -150,6 +150,21 @@ MD5sum: c7c420582020bdceb6017d24fba9948b
 Description: Private and reliable transactions, communications, and publishing - zensystem.io
 
 Package: zencash-desktop-gui-wallet
+Version: 0.88.0
+Architecture: all
+Depends: default-jdk, zen
+Installed-Size: 11852
+Maintainer: admin@horizen.global
+Priority: low
+Section: misc
+Filename: pool/main/z/zencash-desktop-gui-wallet/zencash-desktop-gui-wallet_0.88.0_all.deb
+Size: 11971108
+SHA256: 906c397f98254650103ee90524e9803ad73eb967c75837e49e2b459556854041
+SHA1: 3a5cecb3317df3a7f451d1a72b62415394e6ef41
+MD5sum: 22a390bda1070546e2763bcede546493
+Description: Horizen Desktop GUI Wallet
+
+Package: zencash-desktop-gui-wallet
 Version: 0.87.0
 Architecture: all
 Depends: openjdk-8-jdk, zen
