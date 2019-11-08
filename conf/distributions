@@ -1,15 +1,6 @@
 Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: oldstable
-Codename: jessie
-Architectures: i386 amd64 arm64
-Components: main
-Description: ZencashOfficial binaries
-SignWith: 4991B669
-
-Origin: ZencashOfficial
-Label: ZencashOfficial
-Suite: stable
 Codename: stretch
 Architectures: i386 amd64 arm64
 Components: main
@@ -18,8 +9,17 @@ SignWith: 4991B669
 
 Origin: ZencashOfficial
 Label: ZencashOfficial
-Suite: testing
+Suite: stable
 Codename: buster
+Architectures: i386 amd64 arm64
+Components: main
+Description: ZencashOfficial binaries
+SignWith: 4991B669
+
+Origin: ZencashOfficial
+Label: ZencashOfficial
+Suite: testing
+Codename: bullseye
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
@@ -46,25 +46,7 @@ SignWith: 4991B669
 Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
-Codename: artful
-Architectures: i386 amd64 arm64
-Components: main
-Description: ZencashOfficial binaries
-SignWith: 4991B669
-
-Origin: ZencashOfficial
-Label: ZencashOfficial
-Suite: stable
 Codename: bionic
-Architectures: i386 amd64 arm64
-Components: main
-Description: ZencashOfficial binaries
-SignWith: 4991B669
-
-Origin: ZencashOfficial
-Label: ZencashOfficial
-Suite: stable
-Codename: cosmic
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
@@ -82,34 +64,7 @@ SignWith: 4991B669
 Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
-Codename: qiana
-Architectures: i386 amd64 arm64
-Components: main
-Description: ZencashOfficial binaries
-SignWith: 4991B669
-
-Origin: ZencashOfficial
-Label: ZencashOfficial
-Suite: stable
-Codename: rebecca
-Architectures: i386 amd64 arm64
-Components: main
-Description: ZencashOfficial binaries
-SignWith: 4991B669
-
-Origin: ZencashOfficial
-Label: ZencashOfficial
-Suite: stable
-Codename: rafaela
-Architectures: i386 amd64 arm64
-Components: main
-Description: ZencashOfficial binaries
-SignWith: 4991B669
-
-Origin: ZencashOfficial
-Label: ZencashOfficial
-Suite: stable
-Codename: rosa
+Codename: eoan
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
@@ -154,7 +109,34 @@ SignWith: 4991B669
 Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
-Codename: betsy
+Codename: tara
+Architectures: i386 amd64 arm64
+Components: main
+Description: ZencashOfficial binaries
+SignWith: 4991B669
+
+Origin: ZencashOfficial
+Label: ZencashOfficial
+Suite: stable
+Codename: tessa
+Architectures: i386 amd64 arm64
+Components: main
+Description: ZencashOfficial binaries
+SignWith: 4991B669
+
+Origin: ZencashOfficial
+Label: ZencashOfficial
+Suite: stable
+Codename: tina
+Architectures: i386 amd64 arm64
+Components: main
+Description: ZencashOfficial binaries
+SignWith: 4991B669
+
+Origin: ZencashOfficial
+Label: ZencashOfficial
+Suite: stable
+Codename: cindy
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
