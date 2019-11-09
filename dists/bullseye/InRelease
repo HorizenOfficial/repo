@@ -1,0 +1,58 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: ZencashOfficial
+Label: ZencashOfficial
+Suite: testing
+Codename: bullseye
+Date: Sat, 09 Nov 2019 00:38:26 UTC
+Architectures: i386 amd64 arm64
+Components: main
+Description: ZencashOfficial binaries
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 24ed5174782099cda6607b316004bc6f 137 main/binary-i386/Release
+ f2e58f99b32c7f4ea48b4493ac365f2a 11394 main/binary-amd64/Packages
+ c0c3cd0541adff6aebbdc83ca29653b4 3009 main/binary-amd64/Packages.gz
+ 854136d3b75720ec59ded8ea6f5306c7 138 main/binary-amd64/Release
+ 1861b0d7627ae82a3c6b6dec1df9b280 10535 main/binary-arm64/Packages
+ 8fd04bd04c76585a7e339d5eca895e21 2660 main/binary-arm64/Packages.gz
+ 9ea9e3904ee6982fde745d0064d793fb 138 main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ e00d93446357a09f1bd9907089ae617f7aa442b2 137 main/binary-i386/Release
+ b944a07e5386ea8ce99db7682187b33671c72500 11394 main/binary-amd64/Packages
+ 02d8ec7a6aa9cc95d81d3582c6f3df4ff3755fd2 3009 main/binary-amd64/Packages.gz
+ 5afda223119037816815c9990b72634b36d87252 138 main/binary-amd64/Release
+ 068e4c487ebdbee34eea0ee7f06b30f1deb8e4c7 10535 main/binary-arm64/Packages
+ 1ee147e2564ee66d81cab9dcde36c5ceefc3314f 2660 main/binary-arm64/Packages.gz
+ 10c552d3f3b3f7cded33334d6460ff278d1d5e6a 138 main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ baae0dd198393c96c89d5a68628062020e2cdde3f2f78dae749b6c9f0d86807a 137 main/binary-i386/Release
+ 4fdbd5ebd7770cf7149eadf688c5ab630f3608dab45f4e48e65806d7538a86e8 11394 main/binary-amd64/Packages
+ 63ecf92caf976f25540b24f5389bb7499ebd1b45070d39baad704533abf5dbf8 3009 main/binary-amd64/Packages.gz
+ 69cc89d179f2ef8c593f9503a75f97cc98b318716b3e800cd593657a37aa0dbb 138 main/binary-amd64/Release
+ ce14c5f2a720a9e73e3d16af2e4b629428d3b005b2ceae79f0941d5e0c65ec61 10535 main/binary-arm64/Packages
+ dee53ccf9de201cb681c4bf15f9fedf7061be867e36608d7636a7bca4a4dc42a 2660 main/binary-arm64/Packages.gz
+ 6b70c64a5987ba275809943708c8f2431ac8460282fbc552ab9980e950802d5a 138 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJdxgqCAAoJEPtwU85JkbZpZgMQALtuK2buVjnDo/M/qRA30E71
+3gXd1Kk03tuxIZu5AWv9cq9YMgYYHVWeVld1nOIBY17U5PEhzXmnNFDyy8jOdGut
+ioVUH3oaU3ttveygDmUbOa1FbMDp7COu0tMsvOItvrSXjbsR2r+vLcebX7yK14T5
+xr58yYuFzj/vGO+P5ky/xQQrIEjfMK39ZCfyMdnaNqeGnc1iV8ivbbCh10Lz7Iut
+G5MkuF6gc5OCFELbD+mj/YAczcphYFmArGbGSKRCDXAakA7jPPuDd/NWA1PsAIua
+VvzYkrr/v/PCDgpJFhGTNBtdaQBbAP2y6r1eJHZ0454xMVM8QGowHT8cWN6RJ457
+0mNLfpcy1OoLvT1pf+g2CraL0eG6ONhR7/WU8NswdNlHO/27Nu0XcgnILkE+dJ0F
+Df2jqH61EpBora73tu8jzoWlTl+v3oWoPgeLOIKXGpf1KaaxVU734QAoJH9pQ413
+eeMp/8LJgpIKTbISECO6umKI+EW4o5yKFFbwee7i7/+bG/vlandlLSlwCU1wkhf5
+0X2PeGojfEFHFY00qcBW1ttTOIw61IqaL5YaKp1jPPURupA5CtKh1xwYbw+lnd3e
+UoAOOCXRtTv8Cbb4Z9fcfhdpc6ufJ2DLyStDBZiZE3pnuYNUh/KQbK0XCOEa4xSe
+xf3aRjT9VoYeuyGbN9R4
+=AFJT
+-----END PGP SIGNATURE-----

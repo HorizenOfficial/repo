@@ -2,7 +2,7 @@ Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
 Codename: xenial
-Date: Mon, 21 Oct 2019 19:13:31 UTC
+Date: Sat, 09 Nov 2019 00:38:30 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
@@ -10,29 +10,29 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  986f915919ea4c713279384e795f5c25 136 main/binary-i386/Release
- 5c898a50079a66ab16423daebd8eca38 10765 main/binary-amd64/Packages
- fd0d261a51f8492f461f13980ee0f588 2898 main/binary-amd64/Packages.gz
+ f2e58f99b32c7f4ea48b4493ac365f2a 11394 main/binary-amd64/Packages
+ c0c3cd0541adff6aebbdc83ca29653b4 3009 main/binary-amd64/Packages.gz
  aa7f943477a5205aac35178a4b430063 137 main/binary-amd64/Release
- 709c58f920c1c43c982e3ec98171de3f 9908 main/binary-arm64/Packages
- ce41ce08aba89edc29335122f6752f8a 2550 main/binary-arm64/Packages.gz
+ 1861b0d7627ae82a3c6b6dec1df9b280 10535 main/binary-arm64/Packages
+ 8fd04bd04c76585a7e339d5eca895e21 2660 main/binary-arm64/Packages.gz
  937ee4ae6afd24e0927d1be8fb9994f0 137 main/binary-arm64/Release
 SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  07eb469ea58485b015e4e90d15134234bbd64c6e 136 main/binary-i386/Release
- 5592441e00f4a0dcb560e886116dea1556357f4d 10765 main/binary-amd64/Packages
- 14584077ae4b704334fc84ad5070721d48910f24 2898 main/binary-amd64/Packages.gz
+ b944a07e5386ea8ce99db7682187b33671c72500 11394 main/binary-amd64/Packages
+ 02d8ec7a6aa9cc95d81d3582c6f3df4ff3755fd2 3009 main/binary-amd64/Packages.gz
  982ec36454dc5f49043cd1923db2cb297bfea126 137 main/binary-amd64/Release
- c2fdbbc71edf6229fa7baf1714e7d38e17f98506 9908 main/binary-arm64/Packages
- 35ad635357e3eb5a9f6c399462300fa25d94add0 2550 main/binary-arm64/Packages.gz
+ 068e4c487ebdbee34eea0ee7f06b30f1deb8e4c7 10535 main/binary-arm64/Packages
+ 1ee147e2564ee66d81cab9dcde36c5ceefc3314f 2660 main/binary-arm64/Packages.gz
  c9c6f50afea1c41795d131704381f0fd16157a66 137 main/binary-arm64/Release
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  c99ed0d4eb691164afbea8ba7af6f46534784c7614fb7980c1db124d0305725c 136 main/binary-i386/Release
- 2c57a07ab9a8fe5cff1e26efd5c0e9e6bb5a45b10c8eda9115b5912d46db3897 10765 main/binary-amd64/Packages
- 882eae7537ecae31ae0ce099d1955ca935d4917af543db20e4e410fd70ca7501 2898 main/binary-amd64/Packages.gz
+ 4fdbd5ebd7770cf7149eadf688c5ab630f3608dab45f4e48e65806d7538a86e8 11394 main/binary-amd64/Packages
+ 63ecf92caf976f25540b24f5389bb7499ebd1b45070d39baad704533abf5dbf8 3009 main/binary-amd64/Packages.gz
  1b5c5f52e220ff50cef77b915897b26d481ba9176746f1d0d7b10d214a09d03b 137 main/binary-amd64/Release
- 2c999a66f86b8755d286edc7723f11d412a65d14084c370831ab13f9add1b7be 9908 main/binary-arm64/Packages
- c1119128c54b52ff3d6366cc18961e7b4c2334e8c9b2a9716f0460a010aed0b6 2550 main/binary-arm64/Packages.gz
+ ce14c5f2a720a9e73e3d16af2e4b629428d3b005b2ceae79f0941d5e0c65ec61 10535 main/binary-arm64/Packages
+ dee53ccf9de201cb681c4bf15f9fedf7061be867e36608d7636a7bca4a4dc42a 2660 main/binary-arm64/Packages.gz
  bd96a2c84360ed873a876c4f106f80fb7668f4c393f1f9c8817751ce731ab5d7 137 main/binary-arm64/Release
