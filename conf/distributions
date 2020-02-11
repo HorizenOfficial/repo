@@ -28,15 +28,6 @@ SignWith: 4991B669
 Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
-Codename: trusty
-Architectures: i386 amd64 arm64
-Components: main
-Description: ZencashOfficial binaries
-SignWith: 4991B669
-
-Origin: ZencashOfficial
-Label: ZencashOfficial
-Suite: stable
 Codename: xenial
 Architectures: i386 amd64 arm64
 Components: main
@@ -55,15 +46,6 @@ SignWith: 4991B669
 Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
-Codename: disco
-Architectures: i386 amd64 arm64
-Components: main
-Description: ZencashOfficial binaries
-SignWith: 4991B669
-
-Origin: ZencashOfficial
-Label: ZencashOfficial
-Suite: stable
 Codename: eoan
 Architectures: i386 amd64 arm64
 Components: main
@@ -73,7 +55,7 @@ SignWith: 4991B669
 Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
-Codename: sarah
+Codename: focal
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
@@ -128,6 +110,15 @@ Origin: ZencashOfficial
 Label: ZencashOfficial
 Suite: stable
 Codename: tina
+Architectures: i386 amd64 arm64
+Components: main
+Description: ZencashOfficial binaries
+SignWith: 4991B669
+
+Origin: ZencashOfficial
+Label: ZencashOfficial
+Suite: stable
+Codename: tricia
 Architectures: i386 amd64 arm64
 Components: main
 Description: ZencashOfficial binaries
