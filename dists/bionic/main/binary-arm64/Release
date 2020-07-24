@@ -1,6 +1,6 @@
 Archive: stable
 Component: main
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Architecture: arm64
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries

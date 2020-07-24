@@ -1,135 +1,135 @@
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: oldstable
 Codename: stretch
 Architectures: i386 amd64 arm64
 Components: main
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
 SignWith: 4991B669
 
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: stable
 Codename: buster
 Architectures: i386 amd64 arm64
 Components: main
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
 SignWith: 4991B669
 
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: testing
 Codename: bullseye
 Architectures: i386 amd64 arm64
 Components: main
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
 SignWith: 4991B669
 
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: stable
 Codename: xenial
 Architectures: i386 amd64 arm64
 Components: main
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
 SignWith: 4991B669
 
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: stable
 Codename: bionic
 Architectures: i386 amd64 arm64
 Components: main
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
 SignWith: 4991B669
 
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: stable
 Codename: eoan
 Architectures: i386 amd64 arm64
 Components: main
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
 SignWith: 4991B669
 
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: stable
 Codename: focal
 Architectures: i386 amd64 arm64
 Components: main
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
 SignWith: 4991B669
 
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: stable
 Codename: serena
 Architectures: i386 amd64 arm64
 Components: main
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
 SignWith: 4991B669
 
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: stable
 Codename: sonya
 Architectures: i386 amd64 arm64
 Components: main
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
 SignWith: 4991B669
 
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: stable
 Codename: sylvia
 Architectures: i386 amd64 arm64
 Components: main
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
 SignWith: 4991B669
 
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: stable
 Codename: tara
 Architectures: i386 amd64 arm64
 Components: main
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
 SignWith: 4991B669
 
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: stable
 Codename: tessa
 Architectures: i386 amd64 arm64
 Components: main
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
 SignWith: 4991B669
 
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: stable
 Codename: tina
 Architectures: i386 amd64 arm64
 Components: main
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
 SignWith: 4991B669
 
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: stable
 Codename: tricia
 Architectures: i386 amd64 arm64
 Components: main
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
 SignWith: 4991B669
 
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: stable
 Codename: cindy
 Architectures: i386 amd64 arm64
 Components: main
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
 SignWith: 4991B669
 
