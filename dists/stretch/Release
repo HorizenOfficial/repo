@@ -1,38 +1,38 @@
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: oldstable
 Codename: stretch
-Date: Wed, 03 Jun 2020 15:03:06 UTC
+Date: Fri, 24 Jul 2020 14:00:07 UTC
 Architectures: i386 amd64 arm64
 Components: main
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
 MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
- 4404d3e5132808b26bd6964d0a453df2 139 main/binary-i386/Release
+ f839ebd138de534d3f00772c1f1ecde5 139 main/binary-i386/Release
  5656080c2a69124aee807f1f6dd7989f 14247 main/binary-amd64/Packages
  3b4e0098d4f6d77d374ec0c9bfaba7db 3548 main/binary-amd64/Packages.gz
- 59105ae711988b371a77a440d4fbdd92 140 main/binary-amd64/Release
+ 26405a273fc14af84c5bfdf91dad57a6 140 main/binary-amd64/Release
  175ffaca3293fb8ec5214cad234d621f 13382 main/binary-arm64/Packages
  0204b239da324f059980d632e3c6dcb6 3211 main/binary-arm64/Packages.gz
- e3d8b403c25d1b370f4e8430447422ee 140 main/binary-arm64/Release
+ cfdf7d4478f9bf3fe713f9b02fc13ada 140 main/binary-arm64/Release
 SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
- ea7399de6c151219b688a0290b45e6f92825b702 139 main/binary-i386/Release
+ 77dbf8a91a656f86a393122abfa1eb0269c8dbac 139 main/binary-i386/Release
  0c8291d6a0b18cc05715f6a9e5c5fd540872af80 14247 main/binary-amd64/Packages
  b983b2ae01e0ab511f40710e6502f6dd90aadf71 3548 main/binary-amd64/Packages.gz
- 74701a82a009be822b96a6812531692977f6d768 140 main/binary-amd64/Release
+ 93fa167c33de18e092b7f43b7981c5cbe2271362 140 main/binary-amd64/Release
  fed5d2854159388ddd03c5e22082aee1983ffbfa 13382 main/binary-arm64/Packages
  e9414a4b2062927c6ffabfbfe67adfda672f530a 3211 main/binary-arm64/Packages.gz
- ddb4b16eb6d2e14aae180944c32efaad914ca385 140 main/binary-arm64/Release
+ 3b51325c39a2678b2340a0e530ecb4e8c551cca4 140 main/binary-arm64/Release
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
- d01d71838b7461c2a6edcc4e1f2f892116cb608f5915bbdb10ed2d0ad7340854 139 main/binary-i386/Release
+ 5408a5af61b89ccf6c58f8cfee058fa19651f5d0a6264f6601fa8b7d1f39f50a 139 main/binary-i386/Release
  813525fe5c48a51bdddfa47cd7c0f45d5ee2b78e6cce81c995c1ddb91ac39095 14247 main/binary-amd64/Packages
  a5b5502a150385f183639beebfd6e7176366e19846e21791ccdda12de13f4166 3548 main/binary-amd64/Packages.gz
- 385fc748e880543f96b1edbef2d8754cb89eb7874beab8ded899e1d8ffd3684b 140 main/binary-amd64/Release
+ 064262cee170069d2006279adf6a94c6f8b0db98a34a4ee5a99b3980ea051827 140 main/binary-amd64/Release
  a36a4fc5684a80eb3cb1bf602a7cb93598caecb4962f398c2398b63c98a3f650 13382 main/binary-arm64/Packages
  203676bd431ff3ce937164bd5697e4f17257a16770d8e95fcf69d80a5a681f99 3211 main/binary-arm64/Packages.gz
- fea33eb86719049578e5a90bd1ac59c1df683ccda265b4bb4ec137dc9e5e2b6e 140 main/binary-arm64/Release
+ 0e2449fc0ccd8a5a4e88f33315637fd854e2e616b4ad1a0e901a1cc574cbebfd 140 main/binary-arm64/Release

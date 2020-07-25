@@ -1,6 +1,6 @@
 Archive: oldstable
 Component: main
-Origin: ZencashOfficial
-Label: ZencashOfficial
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Architecture: amd64
-Description: ZencashOfficial binaries
+Description: HorizenOfficial binaries
