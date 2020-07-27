@@ -27,7 +27,7 @@ Please run the following to set it up.
 sudo apt-get update
 sudo apt-get install apt-transport-https lsb-release
 
-echo 'deb https://zencashofficial.github.io/repo/ '$(lsb_release -cs)' main' | sudo tee --append /etc/apt/sources.list.d/zen.list
+echo 'deb https://HorizenOfficial.github.io/repo/ '$(lsb_release -cs)' main' | sudo tee --append /etc/apt/sources.list.d/zen.list
 gpg --batch --keyserver ha.pool.sks-keyservers.net --recv 219F55740BBF7A1CE368BA45FB7053CE4991B669 || \
 gpg --batch --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv 219F55740BBF7A1CE368BA45FB7053CE4991B669 || \
 gpg --batch --keyserver pgp.mit.edu --recv 219F55740BBF7A1CE368BA45FB7053CE4991B669 || \
