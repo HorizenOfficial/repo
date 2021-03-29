@@ -1,5 +1,14 @@
 Origin: HorizenOfficial
 Label: HorizenOfficial
+Suite: oldoldstable
+Codename: jessie
+Architectures: i386 amd64 arm64
+Components: main
+Description: HorizenOfficial binaries
+SignWith: 4991B669
+
+Origin: HorizenOfficial
+Label: HorizenOfficial
 Suite: oldstable
 Codename: stretch
 Architectures: i386 amd64 arm64
@@ -46,15 +55,6 @@ SignWith: 4991B669
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
-Codename: eoan
-Architectures: i386 amd64 arm64
-Components: main
-Description: HorizenOfficial binaries
-SignWith: 4991B669
-
-Origin: HorizenOfficial
-Label: HorizenOfficial
-Suite: stable
 Codename: focal
 Architectures: i386 amd64 arm64
 Components: main
@@ -64,7 +64,7 @@ SignWith: 4991B669
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
-Codename: serena
+Codename: groovy
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -73,7 +73,7 @@ SignWith: 4991B669
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
-Codename: sonya
+Codename: hirsute
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -82,7 +82,7 @@ SignWith: 4991B669
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
-Codename: sylvia
+Codename: ulyssa
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -91,25 +91,7 @@ SignWith: 4991B669
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
-Codename: tara
-Architectures: i386 amd64 arm64
-Components: main
-Description: HorizenOfficial binaries
-SignWith: 4991B669
-
-Origin: HorizenOfficial
-Label: HorizenOfficial
-Suite: stable
-Codename: tessa
-Architectures: i386 amd64 arm64
-Components: main
-Description: HorizenOfficial binaries
-SignWith: 4991B669
-
-Origin: HorizenOfficial
-Label: HorizenOfficial
-Suite: stable
-Codename: tina
+Codename: ulyana
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -127,7 +109,34 @@ SignWith: 4991B669
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
-Codename: cindy
+Codename: tina
+Architectures: i386 amd64 arm64
+Components: main
+Description: HorizenOfficial binaries
+SignWith: 4991B669
+
+Origin: HorizenOfficial
+Label: HorizenOfficial
+Suite: stable
+Codename: tessa
+Architectures: i386 amd64 arm64
+Components: main
+Description: HorizenOfficial binaries
+SignWith: 4991B669
+
+Origin: HorizenOfficial
+Label: HorizenOfficial
+Suite: stable
+Codename: tara
+Architectures: i386 amd64 arm64
+Components: main
+Description: HorizenOfficial binaries
+SignWith: 4991B669
+
+Origin: HorizenOfficial
+Label: HorizenOfficial
+Suite: stable
+Codename: debbie
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries

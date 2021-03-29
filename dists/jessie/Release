@@ -1,0 +1,38 @@
+Origin: HorizenOfficial
+Label: HorizenOfficial
+Suite: oldoldstable
+Codename: jessie
+Date: Mon, 29 Mar 2021 11:03:55 UTC
+Architectures: i386 amd64 arm64
+Components: main
+Description: HorizenOfficial binaries
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 78a21f24ece6beea25b225ceaebb97b2 142 main/binary-i386/Release
+ 78b29ca10b5bbec8b98a43c15cfaadff 15972 main/binary-amd64/Packages
+ 0efbe5aa2ccfc1ffac73f8f8e289bc75 3886 main/binary-amd64/Packages.gz
+ e4e5da2f9388e329c1aa3bb81b189b09 143 main/binary-amd64/Release
+ ad9e251897b72e48d8b6175bc2c6a3f0 15103 main/binary-arm64/Packages
+ a5ac6bf07f2cab6590dbd7a14b12e572 3546 main/binary-arm64/Packages.gz
+ c0bc9613ffb99aea9f9dcba4059685b0 143 main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 3a762bf3dedfeba7e3b2f8564626a1fa63d478a6 142 main/binary-i386/Release
+ d30eec5176c4fd68260ccb4743005a411534a222 15972 main/binary-amd64/Packages
+ 6bf546a33c7bdf878bf0f1ae6021809095f1d95c 3886 main/binary-amd64/Packages.gz
+ 3a0833760e4fb5e0a0e019bef1861f66a039c1f0 143 main/binary-amd64/Release
+ 1205c6653623375a34d9678e89bb778c3a19c060 15103 main/binary-arm64/Packages
+ 31f2c8e1e66eb4a571532a27c869c3d0d48f0e8b 3546 main/binary-arm64/Packages.gz
+ 06b3c3744b9d4650b59a305ef4ffe8088a171dba 143 main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ ccd00b7bc28389be44ac05d2f7b9b4089e7f8d93c51ac1dc8032111479fe9c17 142 main/binary-i386/Release
+ 834465f7570bdf47104cb0410abc3dde974d81b6253ec16158e5b50e6c6152dc 15972 main/binary-amd64/Packages
+ 50bfa32ed7822c9b7fe99737fdf2ea3fa054f70212872a39a2d7ebb9f6b77403 3886 main/binary-amd64/Packages.gz
+ a2b1ea58116e294e94b2331358dfc9f8785df976e6d9b7d43311e8d7a493c3c4 143 main/binary-amd64/Release
+ 1c6e908d9a14ccaa01ff99a4ff344c40a8489c76abc6a1c27f857577cc07c53e 15103 main/binary-arm64/Packages
+ c3347108559734d100068dbbbba68433d0614ba341a1bbdf3c9ee8fa8bdcdd44 3546 main/binary-arm64/Packages.gz
+ f1c48a6245d092c1d63faa16ed0aa00eeb9c2d2443fb43d3b186e510f47dc3e3 143 main/binary-arm64/Release

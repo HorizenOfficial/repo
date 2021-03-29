@@ -1,0 +1,6 @@
+Archive: oldoldstable
+Component: main
+Origin: HorizenOfficial
+Label: HorizenOfficial
+Architecture: arm64
+Description: HorizenOfficial binaries
