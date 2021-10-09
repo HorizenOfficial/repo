@@ -1,0 +1,58 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: HorizenOfficial
+Label: HorizenOfficial
+Suite: stable
+Codename: impish
+Date: Sat, 09 Oct 2021 15:48:12 UTC
+Architectures: i386 amd64 arm64
+Components: main
+Description: HorizenOfficial binaries
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 0555e3272e85cb9bcf13161208c95fa5 136 main/binary-i386/Release
+ 443e8a1570b87aaadfdff118307c8e2e 17052 main/binary-amd64/Packages
+ f25f1ced154c0d6e7ce1f5824bfd2576 4138 main/binary-amd64/Packages.gz
+ a833faeb2223a4f355c1fe37b2b40eca 137 main/binary-amd64/Release
+ 560955c5f4a9912272b83b7c24df78a7 16183 main/binary-arm64/Packages
+ 5ce84bc17b19efb924528b751951f50a 3777 main/binary-arm64/Packages.gz
+ a3699fd5e0a9e9589c4df97b79f743a0 137 main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 7d72d6edd30a496ecd8804101d82c6365f42c850 136 main/binary-i386/Release
+ aa5e12c59a9085f588a15190adcc2e306b1eb00a 17052 main/binary-amd64/Packages
+ f19240f2a35e5d392ee274e682fbc5b2e5a0f1f5 4138 main/binary-amd64/Packages.gz
+ fc205e954bbbe380e618a7ea451e755572a0dfe9 137 main/binary-amd64/Release
+ abf0378311a20eb8992a280e870b720ab9deea02 16183 main/binary-arm64/Packages
+ 2d80b4971cbc83c84af637d405af518dbe7a0b3d 3777 main/binary-arm64/Packages.gz
+ 9e66c4263911a8298c57e6af386f54877393493a 137 main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ dd7e956ea8ecd5e1e2e5d961bd1ac7ecf65ec483ea5e070cc311d4cd59e56c42 136 main/binary-i386/Release
+ b2ef25f77363caccdc96194bfc235bdf12d224b10dad3b49296a4693f7f9f467 17052 main/binary-amd64/Packages
+ 40cedfe1c25a15c2317419e30c2c2903333ab85c3796c1afcc01e0d2c4db568f 4138 main/binary-amd64/Packages.gz
+ 2b98697b1ebe4acea02fec95b961d6b52fd925fc5e5d0f125cf2778e8e0b6ce2 137 main/binary-amd64/Release
+ e00552b82a0d5eb7601a67bfe25116f7d95f24094efb0f5fba23c92420665b1f 16183 main/binary-arm64/Packages
+ 406ae7f2c2474a460f34fc581281b30ee7787f0092d2b27207a9f5597b7754fb 3777 main/binary-arm64/Packages.gz
+ 73ea8783c0f8c12b406a8b10103278cdae5726a68b70de34301fb354b99731c0 137 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJhYbm8AAoJEPtwU85JkbZp9CMP+QHuKD9G1rqZeB/Yw9FtssNm
+NxXqt1UgXDJnlNdyy/oTV1BuQaBBIImXUeAsnbx7v5uNAEH0aQD43fqOdgdpl1bf
+0yE/xJaHxP9hykm8aHZ5kGt6H/5yiqPqEGFy3X/6vhue/YHwd8aFt4sxJ/poSBw9
+b+8TxXs1Unh2UpuM7sH6pD9kG/fOqZsTc8GZB149jfB8VisTeMmCQAoAZxEDIsbC
+xARPprvtkGTqcF1TiyUmm1FRqfDzzcQo2G7MVZmmr7hQLe8Pl9pepbhb8VcfRGy5
+sw5axa8Q22s3AG7jwfL+KE4afZm1c8nrtSo+daQGIRJMkYmj7seN2Jx1KnY4HsjB
+nbUp1AlUvV2Ssngpnq6Bwsnu837HPhPMHiRQ94VIxE66lI2oNcvecV3yi+EZKBfS
+6mzblOTq64EgLfpTaQZeTXbw+nLsMSrtTQWuBZhPV7xx8gpbPrcZRq+kTPHCylW2
+ksMwvhXejbhhsZ/1+JF0GyOU1zexY8zGEtataDC9AYNVE5VPND5di2k6QgYgmnXN
+wpudBkwiSewQZEKbSefJXqxdNuBvuKh4WtO+r3s4ITRn27TT9Ij8TepTJaGMmdjn
+eZ4Cirfpne8k/DYqlPEzRpsqU7yH1EIOSt8lejOgidBJQBdHGeoNnIUuU9dyKWNN
+slYz7dHsbTVUGes8FOOb
+=W/zt
+-----END PGP SIGNATURE-----

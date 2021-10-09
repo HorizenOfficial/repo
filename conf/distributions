@@ -1,15 +1,6 @@
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: oldoldstable
-Codename: jessie
-Architectures: i386 amd64 arm64
-Components: main
-Description: HorizenOfficial binaries
-SignWith: 4991B669
-
-Origin: HorizenOfficial
-Label: HorizenOfficial
-Suite: oldstable
 Codename: stretch
 Architectures: i386 amd64 arm64
 Components: main
@@ -18,7 +9,7 @@ SignWith: 4991B669
 
 Origin: HorizenOfficial
 Label: HorizenOfficial
-Suite: stable
+Suite: oldstable
 Codename: buster
 Architectures: i386 amd64 arm64
 Components: main
@@ -27,7 +18,7 @@ SignWith: 4991B669
 
 Origin: HorizenOfficial
 Label: HorizenOfficial
-Suite: testing
+Suite: stable
 Codename: bullseye
 Architectures: i386 amd64 arm64
 Components: main
@@ -36,8 +27,8 @@ SignWith: 4991B669
 
 Origin: HorizenOfficial
 Label: HorizenOfficial
-Suite: stable
-Codename: xenial
+Suite: testing
+Codename: bookworm
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -82,7 +73,7 @@ SignWith: 4991B669
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
-Codename: ulyssa
+Codename: impish
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -91,34 +82,7 @@ SignWith: 4991B669
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
-Codename: ulyana
-Architectures: i386 amd64 arm64
-Components: main
-Description: HorizenOfficial binaries
-SignWith: 4991B669
-
-Origin: HorizenOfficial
-Label: HorizenOfficial
-Suite: stable
-Codename: tricia
-Architectures: i386 amd64 arm64
-Components: main
-Description: HorizenOfficial binaries
-SignWith: 4991B669
-
-Origin: HorizenOfficial
-Label: HorizenOfficial
-Suite: stable
-Codename: tina
-Architectures: i386 amd64 arm64
-Components: main
-Description: HorizenOfficial binaries
-SignWith: 4991B669
-
-Origin: HorizenOfficial
-Label: HorizenOfficial
-Suite: stable
-Codename: tessa
+Codename: debbie
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -136,9 +100,53 @@ SignWith: 4991B669
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
-Codename: debbie
+Codename: tessa
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
 SignWith: 4991B669
 
+Origin: HorizenOfficial
+Label: HorizenOfficial
+Suite: stable
+Codename: tina
+Architectures: i386 amd64 arm64
+Components: main
+Description: HorizenOfficial binaries
+SignWith: 4991B669
+
+Origin: HorizenOfficial
+Label: HorizenOfficial
+Suite: stable
+Codename: tricia
+Architectures: i386 amd64 arm64
+Components: main
+Description: HorizenOfficial binaries
+SignWith: 4991B669
+
+Origin: HorizenOfficial
+Label: HorizenOfficial
+Suite: stable
+Codename: ulyana
+Architectures: i386 amd64 arm64
+Components: main
+Description: HorizenOfficial binaries
+SignWith: 4991B669
+
+Origin: HorizenOfficial
+Label: HorizenOfficial
+Suite: stable
+Codename: ulyssa
+Architectures: i386 amd64 arm64
+Components: main
+Description: HorizenOfficial binaries
+SignWith: 4991B669
+
+Origin: HorizenOfficial
+Label: HorizenOfficial
+Suite: stable
+Codename: uma
+Architectures: i386 amd64 arm64
+Components: main
+Description: HorizenOfficial binaries
+SignWith: 4991B669
