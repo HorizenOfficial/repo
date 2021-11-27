@@ -2,7 +2,7 @@ Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: testing
 Codename: bookworm
-Date: Mon, 22 Nov 2021 19:33:26 UTC
+Date: Sat, 27 Nov 2021 19:10:30 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -10,29 +10,29 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  1ac9a6db9db48c905d35660d4ad17c65 137 main/binary-i386/Release
- 41cc518c1aa117d84d3d9c7a3fc84724 19718 main/binary-amd64/Packages
- 0293bcc4cce13ee93e2970f378f89640 4690 main/binary-amd64/Packages.gz
+ ed146470ca881c93907a7ba4f24bd7c0 20796 main/binary-amd64/Packages
+ c0de94e76b94d71584a16d5c9e3b4a32 4905 main/binary-amd64/Packages.gz
  bc72f12255381a100f9f4202b37d901a 138 main/binary-amd64/Release
- de2dc5313c7c14d41d4f3ccba676b774 17653 main/binary-arm64/Packages
- 08998a5bfbc511c4f3687d1424d76fbf 4079 main/binary-arm64/Packages.gz
+ 8060f7b76d931bcd6ca8939e3755a9c9 18143 main/binary-arm64/Packages
+ 295f0acc7ef11d15fbf3321bc69114a4 4180 main/binary-arm64/Packages.gz
  4acc1533d05ca3cc028f42991fb6b5b8 138 main/binary-arm64/Release
 SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  f87581f9cac3e7207fb167255c89088aa0b0b2bd 137 main/binary-i386/Release
- 1c27b1f32eee8df00d8697d00e8d1d1d1042c813 19718 main/binary-amd64/Packages
- 6ded930787814258c75545088e5dd86d4174d497 4690 main/binary-amd64/Packages.gz
+ c87ab4c35068e3ee66abbaafca6e5c9ef8a490aa 20796 main/binary-amd64/Packages
+ 24536f74fe2cfcb54e35142a4f93c2b5c45e30b1 4905 main/binary-amd64/Packages.gz
  1c56f5f9784ab3b6f8a1e9d041101e67a99ec0ad 138 main/binary-amd64/Release
- 2f0365d8e1165640cafbce754158eb355fbf9b08 17653 main/binary-arm64/Packages
- 235682387f112b7ccabe5504fd15fdc8538325a0 4079 main/binary-arm64/Packages.gz
+ 8fad37d1c5ff408328d543fb78fab6962ec80bcd 18143 main/binary-arm64/Packages
+ a6a7d9a3f66960a31dbbd07f146f0f16ab9f60d0 4180 main/binary-arm64/Packages.gz
  86f5702886e423626d7edfb31969e15283b6e342 138 main/binary-arm64/Release
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  2872a9a5b5323516dbb83194039fb4fad2e00b502877a15c8c1e864beb5fb725 137 main/binary-i386/Release
- 83e3e61d3e9796cf0ddf7379190f01dfb8cd516f1a3a6f7df96f788d19ff6b14 19718 main/binary-amd64/Packages
- 47d8f9386716e1ba2e458faba94cdbf6ae3d856da3017ca4923a28b5cee540b2 4690 main/binary-amd64/Packages.gz
+ 756d993aa602ce874d19c5baec39819c60ba735e4106c884dce12f490cbe93b6 20796 main/binary-amd64/Packages
+ 3cb7243c1fe13b81e727755babc005a19d1e05841ed1e552d45cf8244febf057 4905 main/binary-amd64/Packages.gz
  409178f420de7e4ae5c9746db4a439e6fdc0a29fec3ea89362244320ed8971e8 138 main/binary-amd64/Release
- 751dfee7fb348a58960f017fb1c6e1c49fae06e0c4fc985ad298b59b0d1aff08 17653 main/binary-arm64/Packages
- bfa55757da473d470e63a294fb33fcd65147e0b55bd49b71af7c6b9af4c1df3f 4079 main/binary-arm64/Packages.gz
+ 1e8f58a7757613d1ee81a2adc246af8422872674c4d95d552a4443df85d2a564 18143 main/binary-arm64/Packages
+ f48c9cc518360aecc02ee9e756ae35db43ca5a97f07efe628982b081684adf96 4180 main/binary-arm64/Packages.gz
  f60a91c3ee477afec02f3c2271330194c8c6b5b230af76d3ce510b9e11566b3f 138 main/binary-arm64/Release
