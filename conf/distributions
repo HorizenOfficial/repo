@@ -46,15 +46,6 @@ SignWith: 4991B669
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
-Codename: groovy
-Architectures: i386 amd64 arm64
-Components: main
-Description: HorizenOfficial binaries
-SignWith: 4991B669
-
-Origin: HorizenOfficial
-Label: HorizenOfficial
-Suite: stable
 Codename: hirsute
 Architectures: i386 amd64 arm64
 Components: main
@@ -73,7 +64,16 @@ SignWith: 4991B669
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
-Codename: debbie
+Codename: jammy
+Architectures: i386 amd64 arm64
+Components: main
+Description: HorizenOfficial binaries
+SignWith: 4991B669
+
+Origin: HorizenOfficial
+Label: HorizenOfficial
+Suite: stable
+Codename: elsie
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -137,6 +137,15 @@ Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
 Codename: uma
+Architectures: i386 amd64 arm64
+Components: main
+Description: HorizenOfficial binaries
+SignWith: 4991B669
+
+Origin: HorizenOfficial
+Label: HorizenOfficial
+Suite: stable
+Codename: una
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
