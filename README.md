@@ -27,9 +27,15 @@ Please run the following to set it up.
 sudo apt-get update
 sudo apt-get install apt-transport-https lsb-release
 
-echo 'deb https://HorizenOfficial.github.io/repo/ '$(lsb_release -cs)' main' | sudo tee --append /etc/apt/sources.list.d/zen.list
-( gpg --batch --keyserver hkps://keys.openpgp.org --recv 219F55740BBF7A1CE368BA45FB7053CE4991B669 || \
-gpg --batch --keyserver keyserver.ubuntu.com --recv 219F55740BBF7A1CE368BA45FB7053CE4991B669 ) | sudo apt-key add -
+echo 'deb [signed-by=/usr/share/keyrings/horizen-archive-keyring.gpg] https://HorizenOfficial.github.io/repo/ '$(lsb_release -cs)' main' | sudo tee --append /etc/apt/sources.list.d/zen.list
+export GNUPGHOME="$(mktemp -d)"
+gpg --batch --keyserver hkps://keys.openpgp.org --recv 219F55740BBF7A1CE368BA45FB7053CE4991B669 || \
+gpg --batch --keyserver keyserver.ubuntu.com --recv 219F55740BBF7A1CE368BA45FB7053CE4991B669
+gpg --export 219F55740BBF7A1CE368BA45FB7053CE4991B669 | sudo tee > /usr/share/keyrings/horizen-archive-keyring.gpg
+gpgconf --kill dirmngr || true
+gpgconf --kill gpg-agent || true
+rm -r "$GNUPGHOME"
+unset GNUPGHOME
 
 sudo apt-get update
 sudo apt-get install zen # to install Zen
