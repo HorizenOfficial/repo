@@ -5,7 +5,7 @@ Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
 Codename: tara
-Date: Mon, 28 Mar 2022 13:20:02 UTC
+Date: Thu, 29 Sep 2022 15:37:11 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -13,8 +13,8 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  0555e3272e85cb9bcf13161208c95fa5 136 main/binary-i386/Release
- b4a7842f377fb37636643f51581321e0 22952 main/binary-amd64/Packages
- 555c1183e3f7861c45c87c26feaf8b38 5329 main/binary-amd64/Packages.gz
+ eb746a75519004a147e5df9d79f73d2b 23540 main/binary-amd64/Packages
+ 063f9e6d14f678e6ee27674767b73cff 5438 main/binary-amd64/Packages.gz
  a833faeb2223a4f355c1fe37b2b40eca 137 main/binary-amd64/Release
  285f1bb50c1d186d540cb33729e1cf79 19123 main/binary-arm64/Packages
  482cc23dad246f891fd387e11e101542 4378 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  7d72d6edd30a496ecd8804101d82c6365f42c850 136 main/binary-i386/Release
- e384e43088a6abe60e39b9b6d16bce4e7c356034 22952 main/binary-amd64/Packages
- 20a4a2ab071a2678d5d2ab162661fca64efc6601 5329 main/binary-amd64/Packages.gz
+ 382fdb234477ea51cc668f89a17a3e247ac2e080 23540 main/binary-amd64/Packages
+ d0084ecbdf6ff8ce8c96af68c2d7d4bcfc29a89d 5438 main/binary-amd64/Packages.gz
  fc205e954bbbe380e618a7ea451e755572a0dfe9 137 main/binary-amd64/Release
  bee50e4444b876e827296bf2de09650f67dd4d0b 19123 main/binary-arm64/Packages
  7261f82876fc54c46aa66b9aed2ae0bac0591a94 4378 main/binary-arm64/Packages.gz
@@ -33,8 +33,8 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  dd7e956ea8ecd5e1e2e5d961bd1ac7ecf65ec483ea5e070cc311d4cd59e56c42 136 main/binary-i386/Release
- 19fc15811f887eb953a26f217cf03b0fd390c472d0d2385c372d11fc2023eb81 22952 main/binary-amd64/Packages
- c7237de71366d4f5e5a47eea7aa3feb9de4d41e699b4bc44e8a6be391bdcd6d3 5329 main/binary-amd64/Packages.gz
+ 41f84ff6e3be72231a6c3ea80f676866e88ccbdafb1980bb20154fa07e25344f 23540 main/binary-amd64/Packages
+ 012dcf05b8d31dfe0b8226190b1816180cd1157c7993be36f43141dc4f1f7901 5438 main/binary-amd64/Packages.gz
  2b98697b1ebe4acea02fec95b961d6b52fd925fc5e5d0f125cf2778e8e0b6ce2 137 main/binary-amd64/Release
  711487586f3f6ef795f034dce0a81bf38451c64e12167e024d4ab17012f71716 19123 main/binary-arm64/Packages
  860c8463c0984202f5da0dfe4db19d86f31f63c307fd343d3f9ed6c6c12c860e 4378 main/binary-arm64/Packages.gz
@@ -42,17 +42,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJiQbYCAAoJEPtwU85JkbZprToQALPmrcPSMYwrgGQOplV2F92U
-XAT8uzUAUrGXYQtBVQb0rOHrBmQT0nG9ncwsE/rhAwYO/SkTclvFxRw8Kl44aBGA
-cFNvnpRTIpIASWaFmKccLA+bSqKRUJ0j7pdsFONWfahmW9FUb6O5QlzxKo6EqWVv
-nBrka23OlUOkK6iQUY/wEdfZ7TH829vIctkdOmhycOncoyHTXTbS3kIcjV9XQCv8
-nS2XNRbhOARHhT3naio3Y630fx2yNOgoNwdWUMI351MpgyH48Q228MFJjFBd5vM9
-PkFTvOl5bTNmISAL/Jw4kh2cXcjbG3eICNGlzhO/M33rypfG74BxgRSw/uraJpfE
-dqDLmPwTLwcm7FCcKWiyX2HGjXzTV4RC7CEsEDxvl0SCkXFcQ5CkC0aUMDc/J50K
-d6miZyPJauK+hu2lj7tZE2Ly88dUvjyiY5/peIC0rxh6YAm2kbR7dX8L0dmBjK93
-vwQrQ3arjpqOP9UunxGgG3T+b0sfct4NQ/49JEiIdP3xgI8EHtVZUrl9m05iMdND
-VC5Nfmsiw39tH/+pp6vu5TkdlS/wjca78ai2HyKoMX8/uAaWPLxswb7M2vcglwVO
-V6dEG7BbNxLvydPAyxwd5RtXf31qnc/o2MxpAhRtUjuJbF6ZtU+MOsPVBhB6KHNv
-VSoEnLKWBcEvFy0N69zv
-=jkEL
+iQIcBAEBCAAGBQJjNbunAAoJEPtwU85JkbZpxVsP/RMA/IHd5AXSF/szB0yKlOVw
+Zd165WXpfwJJnRpwW9sKGBuYN1p75NeR+8WFPTl/F1DhwX+NJQzddjb4F5mylBso
+63kME5CKec30ZKYYbZpd0BYD03DM3vDJ9iNBl0Lta1X5KNYaVYSyD1voHvIf6iet
+oeMmDTw425v5X1l48pisKFIhrDAUBdKAqWjG+sSseYCj9/iro2AD1l/9VgSWCyTJ
+/l8+CCgfDzDrB/hCaCvC8SXDfFREo2aw7ki7K51IG9xWmAsfXLcTmmDrjEbxRRgW
+GEYBg+bn8qhXunev+cb9epcxWqJAuTgniCYW1axWIkLr0mXdvti85oBEw0yN/SQR
+zTd07qTmYNl80E4p64Em25TefT108W4T9Nn4asP4h/AwH3oYWase6Lc2uWBRmADR
+NMCSTO8Ff8K+woYK20GVTTKG8qm+DixknmDvPceAF1MCRlEWg1fujsn32OThYhZR
+pbqNkRDH/zNDJIjyJFf8iGGF3GvvqwCepNwnD9dRYRBL5QxMkBKdZpFxFQ604Axj
+AwKwB3p7+FQvlMsk0uKiikmj58VT5mRxTc49HIM3UrdTSQOLcMfeGt2JLTLG+CGL
+NMlxZSZ/D7lFf7HLiEOPu3qdPzklAvNV4NRS67S9s/cdyJjJtHG0iZ+XSoKkzv9y
+FKnaRivArjj/HNJJUXeC
+=qtpi
 -----END PGP SIGNATURE-----
