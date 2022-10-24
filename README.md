@@ -27,11 +27,11 @@ Please run the following to set it up.
 sudo apt-get update
 sudo apt-get install apt-transport-https lsb-release
 
-echo 'deb [signed-by=/usr/share/keyrings/horizen-archive-keyring.gpg] https://HorizenOfficial.github.io/repo/ '$(lsb_release -cs)' main' | sudo tee --append /etc/apt/sources.list.d/zen.list
+echo 'deb [signed-by=/usr/share/keyrings/horizen-archive-keyring.gpg] https://HorizenOfficial.github.io/repo/ '$(lsb_release -cs)' main' | sudo tee /etc/apt/sources.list.d/zen.list > /dev/null
 export GNUPGHOME="$(mktemp -d)"
 gpg --batch --keyserver hkps://keys.openpgp.org --recv 219F55740BBF7A1CE368BA45FB7053CE4991B669 || \
 gpg --batch --keyserver keyserver.ubuntu.com --recv 219F55740BBF7A1CE368BA45FB7053CE4991B669
-gpg --export 219F55740BBF7A1CE368BA45FB7053CE4991B669 | sudo tee > /usr/share/keyrings/horizen-archive-keyring.gpg
+gpg --export 219F55740BBF7A1CE368BA45FB7053CE4991B669 | sudo tee /usr/share/keyrings/horizen-archive-keyring.gpg > /dev/null
 gpgconf --kill dirmngr || true
 gpgconf --kill gpg-agent || true
 rm -r "$GNUPGHOME"
@@ -55,11 +55,4 @@ zencash-desktop-gui-wallet
 zenchat
         Depends: gconf-service, gconf2, gvfs-bin, libc6, libcap2, libgcrypt11 | libgcrypt20,
                  libgtk2.0-0, libnotify4, libnss3, libudev0 | libudev1, libxtst6, xdg-utils
-
-## ARM64
-zen
-        Depends: libc6 (>= 2.17), libgcc1 (>= 1:4.5), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
-
-zencash-desktop-gui-wallet
-        Depends: default-jdk, zen
 ```
