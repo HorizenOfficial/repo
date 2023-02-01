@@ -2,7 +2,7 @@ Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
 Codename: ulyssa
-Date: Mon, 17 Oct 2022 09:55:38 UTC
+Date: Wed, 01 Feb 2023 00:06:15 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -10,8 +10,8 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  0555e3272e85cb9bcf13161208c95fa5 136 main/binary-i386/Release
- cc7019551545c234ae5c591687fec450 24030 main/binary-amd64/Packages
- 11b25954cdf158050b83af2030f47315 5543 main/binary-amd64/Packages.gz
+ 4e43d7e29b66ddc2799e99a159e6b097 24618 main/binary-amd64/Packages
+ b3f3ab2243a2161e3a2616672a8f848e 5652 main/binary-amd64/Packages.gz
  a833faeb2223a4f355c1fe37b2b40eca 137 main/binary-amd64/Release
  95b1328a1ada0745102eac7c5a10de4b 19613 main/binary-arm64/Packages
  94c4e538e61819e9962e6b51a697901f 4483 main/binary-arm64/Packages.gz
@@ -20,8 +20,8 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  7d72d6edd30a496ecd8804101d82c6365f42c850 136 main/binary-i386/Release
- 81d37d14ea09ed2b0d3c49c3ca2c4cba4daffa67 24030 main/binary-amd64/Packages
- 30141b75437a57ec482a753f3893175bb86c72d4 5543 main/binary-amd64/Packages.gz
+ 57d68ebd862d75e47900baf1a06ef247ac38d927 24618 main/binary-amd64/Packages
+ 8ec300707e6d6894fc84182486ba5d0f2c50ba52 5652 main/binary-amd64/Packages.gz
  fc205e954bbbe380e618a7ea451e755572a0dfe9 137 main/binary-amd64/Release
  c5f928844ccf6577ff3cc270ecde72ca032fc90a 19613 main/binary-arm64/Packages
  dd747b9af372348f10f2b3f7714593002696d188 4483 main/binary-arm64/Packages.gz
@@ -30,8 +30,8 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  dd7e956ea8ecd5e1e2e5d961bd1ac7ecf65ec483ea5e070cc311d4cd59e56c42 136 main/binary-i386/Release
- 7c0dd48c8ee10a59456c10fdca1531ffe9e1dd9c1f283eccba61c450c534d056 24030 main/binary-amd64/Packages
- 8914bad96dd66ddd0d0c2bec57a6964cd145125cb979b3636cfdf030519e0cbd 5543 main/binary-amd64/Packages.gz
+ 900d68c7ccb7736c0e5b618ca6c037bbaac53de4fb8cd3f4f4d194778f4c75b5 24618 main/binary-amd64/Packages
+ dc82008bfbb842b59ebef4e6b6cc9d287549440d937c1e41bf995a3bc1f88869 5652 main/binary-amd64/Packages.gz
  2b98697b1ebe4acea02fec95b961d6b52fd925fc5e5d0f125cf2778e8e0b6ce2 137 main/binary-amd64/Release
  2fab9a95a4ea93b53e66db0d89a6e49feb3e9e835c7294cdf495fb000e42fe9e 19613 main/binary-arm64/Packages
  7ccfe698aca79d6aaab8fd665a57d7274d0d432b934314fdf64198f8fdc5568c 4483 main/binary-arm64/Packages.gz
