@@ -1,4 +1,20 @@
 Package: zen
+Version: 4.0.0
+Architecture: amd64
+Maintainer: Zen Blockchain Foundation <info@horizen.io>
+Installed-Size: 202264
+Depends: libc6 (>= 2.25), libgcc1 (>= 1:4.2), libgomp1 (>= 4.9), libstdc++6 (>= 7)
+Homepage: https://horizen.io
+Priority: optional
+Section: utils
+Filename: pool/main/z/zen/zen_4.0.0_amd64.deb
+Size: 41990408
+SHA256: 4b5abf20e7379b7784924df421e8ab35314ea01c656975dce82c0d18dbddd696
+SHA1: eec294e0cc5e51107c2cec71984858dadc23273f
+MD5sum: f3ceaaddf534b26a2c38d8b69aa469cf
+Description: Private and reliable transactions, communications, and publishing - horizen.io
+
+Package: zen
 Version: 3.3.1
 Architecture: amd64
 Maintainer: Zen Blockchain Foundation <info@horizen.io>
@@ -411,6 +427,21 @@ SHA256: d8e36538a13ed5da6bad43a770353f4d559c23b0468b732712eab3170b95e8d0
 SHA1: 63b1f2ae741f0c45c2fef5ce521dbbad54c8691c
 MD5sum: 71c5c9966ae65b0765bc24104b096307
 Description: Private and reliable transactions, communications, and publishing - zensystem.io
+
+Package: zencash-desktop-gui-wallet
+Version: 1.0.10
+Architecture: all
+Depends: default-jdk, zen
+Installed-Size: 11850
+Maintainer: infrastructure@horizen.io
+Priority: low
+Section: misc
+Filename: pool/main/z/zencash-desktop-gui-wallet/zencash-desktop-gui-wallet_1.0.10_all.deb
+Size: 11975094
+SHA256: 5ab826a85f27aad659bbae9d920b8b1f142f31cf1e19b69eacf0c547ad69eb7e
+SHA1: 16a26e6c6504b8c5fb2b4a89e635d50b16fb50f5
+MD5sum: 06f7805ebe32a7a481359b30ed1bd6eb
+Description: Horizen Desktop GUI Wallet
 
 Package: zencash-desktop-gui-wallet
 Version: 1.0.9
