@@ -5,7 +5,7 @@ Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: testing
 Codename: bookworm
-Date: Tue, 16 May 2023 09:00:41 UTC
+Date: Mon, 04 Sep 2023 17:40:28 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -13,8 +13,8 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  1ac9a6db9db48c905d35660d4ad17c65 137 main/binary-i386/Release
- b4896f2c905c2648b83d54d5b216d5c4 27854 main/binary-amd64/Packages
- 9cded92916d907ca4135f27247efda9e 6290 main/binary-amd64/Packages.gz
+ d6b20f5a3c10b1454553e511f30ea8bd 28442 main/binary-amd64/Packages
+ d899ba6dca374285a863470968c1b3f7 6426 main/binary-amd64/Packages.gz
  bc72f12255381a100f9f4202b37d901a 138 main/binary-amd64/Release
  4f85262e4bb3c6a8af25e8af26db138c 21085 main/binary-arm64/Packages
  de781c07f20631b69258410141bea284 4786 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  f87581f9cac3e7207fb167255c89088aa0b0b2bd 137 main/binary-i386/Release
- 833172d65e3b7392ace1fd5a60478296eab3cf89 27854 main/binary-amd64/Packages
- 170e08b8f59fd7f71c538edfb5611dcad11a593e 6290 main/binary-amd64/Packages.gz
+ 96d13c0f3afe95c8f284df19aeb2f694ec39ee8e 28442 main/binary-amd64/Packages
+ faf60f5328d0f6da29647f257b9d63620b286c6d 6426 main/binary-amd64/Packages.gz
  1c56f5f9784ab3b6f8a1e9d041101e67a99ec0ad 138 main/binary-amd64/Release
  3060d40674bcaa00f2fbfeca1f4f31711b64a171 21085 main/binary-arm64/Packages
  dd891756f7b348ba78ceb06b8c67e9583365bb41 4786 main/binary-arm64/Packages.gz
@@ -33,8 +33,8 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  2872a9a5b5323516dbb83194039fb4fad2e00b502877a15c8c1e864beb5fb725 137 main/binary-i386/Release
- a5039882f4cef18114d8710c8f525bf60bbaef84f1b0ba55805a960658dd3672 27854 main/binary-amd64/Packages
- 0baf9b5cb6d23c672617f9848da788328bdc78356287d7e3fb9a130f91635a0a 6290 main/binary-amd64/Packages.gz
+ f63345aef2929ad6b26da2fcb7cecf2acf3d9ad79b812077ab88780d72919624 28442 main/binary-amd64/Packages
+ 2f8995ebe8fc246a25c9484597b5f44ef569d7f18cb72a17eebc7a4a7fc4b3b4 6426 main/binary-amd64/Packages.gz
  409178f420de7e4ae5c9746db4a439e6fdc0a29fec3ea89362244320ed8971e8 138 main/binary-amd64/Release
  c5e834b6583eb17408041a41c5159c7c2d7588c82bf5005fb7814d3b80ee1e85 21085 main/binary-arm64/Packages
  03d081618b875b20fb85724ca58b54225d5185804586de8e2b46749d9535156a 4786 main/binary-arm64/Packages.gz
@@ -42,17 +42,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJkY0Y5AAoJEPtwU85JkbZpq0gQAMt3Y90M9SFXLBR9DX+9avM1
-Jq3LjqJreswMIq5QIbN8l/VRe7/CknLBZkFeUNytnykOMTlLcNv9Qzqja8adbAvR
-u9YzCPLJ9Ta8MD5eE3b4qeinjcXmOMI+3H9VNpc94YbJxSFYwgPsczROnOM8K6Qc
-zvM/kgalTTW9nG7/uCTRabz/zdsspUbP/lKyYqdigSKBdFl0nwDkqNNf13tQN9s7
-5QHwKsmb7qUBIwwW42PhQ9nFbmRootN2pY7+HdmzMXPuatQUmmcqcuWQCP3iXRN9
-Rw2xVDxSFGDwykqA+mBIUzL/tL3f1lxENPKWae+tSzLtr8SoVKdKOnQ5eFW6Jlad
-nMWDw18kJch29lO1tEplwJQ4Oinzd+nnD0fBm80eTiD8UYOmNNuhauixHxuIJUgl
-kME/r/uzbtxy4gKlMoEVU7MypwHEQG3Wmo1Je2watdRnDCAe2UQQzCdPcffz4J37
-mmrOKg5DbaPWfSd1a4Rswo9rw+mM3OeMU0cnE0d2gKQQKYKgR8vYKyyXX6+fT7M8
-Kn6CFvOJ0XXuya65mbIWvweQyoMSG/IcpiR2qsphudJDYZ3k0izppovfLr6+MOoX
-O3tmq/dRhfFkOKLbnzfjpmK/rU9KsG4KrKu6nhe4sZv0Tx1verazTGqgecqEisXs
-hIhuwL/zkkD/nbaEwDQ+
-=+Gn2
+iQIcBAEBCAAGBQJk9haNAAoJEPtwU85JkbZpi4oP/jfyFMu4gR7Z2u7MzOCClWxv
+gfdehvxYglK5owyhso69LyVjTiHpuCXL4nH+FFmJiGd+9Q4kTYm5iNZa6ZFtcDF4
+lrmYaPDd2aFvwxMXUY+Yvem2tpDF2wJN0OukQxSWRknF/JR0b8mZvgA+Jvxb+7uN
+OHTx+J1W16/fJW0CQsSBji1F5woxuuvgkTS1PmIcHqU8Scz+pvV6hrmHR/uZelY1
+ri11lgKII1s5ksBKjIJFwg8bRcpLDSd7jtYrsy8vfNBmrvvaXPqmwx6lwHgzWqAM
+Mzx7tk67Rg0sO0xKev9YeNMZ6f4PpZmJuLQ/Yy4qWK05Ihk0M3B0+tQqCu5lUENT
++KltoPkuYON3zCxDTV4QEhEycFoZyhz29DeF8TfRygnvedqxwgkpTZTGz94rCnWj
+NF/bxgeN9YBfhj80Wb46fZgg6AsfqVcPPC1OwslstSLp64LiwbxmVtuEW+Dj+Edx
+bdxPOENP86wjPX+Fcohmt9lHEqJdJNK439x8fA/z8pJHtLmuVHgNYjsslIeKmLv9
+VNSj881p4kjWyPd4NIQEtJlgpAk57VjP4DAwYxoixn+Ogr5g/zgP7qjHgPU3EGdy
+Omk02h7eESKBmzggQl0yl1lLidbF6P4WT2907TjS4x6lN8SwvAOXZaYvWOQK04DI
+d6jOG2CYH81kMFWlg5i2
+=2d26
 -----END PGP SIGNATURE-----
