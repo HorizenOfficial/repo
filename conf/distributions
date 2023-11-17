@@ -1,15 +1,6 @@
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: oldstable
-Codename: buster
-Architectures: i386 amd64 arm64
-Components: main
-Description: HorizenOfficial binaries
-SignWith: 4991B669
-
-Origin: HorizenOfficial
-Label: HorizenOfficial
-Suite: stable
 Codename: bullseye
 Architectures: i386 amd64 arm64
 Components: main
@@ -18,8 +9,17 @@ SignWith: 4991B669
 
 Origin: HorizenOfficial
 Label: HorizenOfficial
-Suite: testing
+Suite: stable
 Codename: bookworm
+Architectures: i386 amd64 arm64
+Components: main
+Description: HorizenOfficial binaries
+SignWith: 4991B669
+
+Origin: HorizenOfficial
+Label: HorizenOfficial
+Suite: testing
+Codename: trixie
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -29,15 +29,6 @@ Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: unstable
 Codename: sid
-Architectures: i386 amd64 arm64
-Components: main
-Description: HorizenOfficial binaries
-SignWith: 4991B669
-
-Origin: HorizenOfficial
-Label: HorizenOfficial
-Suite: stable
-Codename: bionic
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -64,15 +55,6 @@ SignWith: 4991B669
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
-Codename: kinetic
-Architectures: i386 amd64 arm64
-Components: main
-Description: HorizenOfficial binaries
-SignWith: 4991B669
-
-Origin: HorizenOfficial
-Label: HorizenOfficial
-Suite: stable
 Codename: lunar
 Architectures: i386 amd64 arm64
 Components: main
@@ -82,43 +64,7 @@ SignWith: 4991B669
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
-Codename: elsie
-Architectures: i386 amd64 arm64
-Components: main
-Description: HorizenOfficial binaries
-SignWith: 4991B669
-
-Origin: HorizenOfficial
-Label: HorizenOfficial
-Suite: stable
-Codename: tara
-Architectures: i386 amd64 arm64
-Components: main
-Description: HorizenOfficial binaries
-SignWith: 4991B669
-
-Origin: HorizenOfficial
-Label: HorizenOfficial
-Suite: stable
-Codename: tessa
-Architectures: i386 amd64 arm64
-Components: main
-Description: HorizenOfficial binaries
-SignWith: 4991B669
-
-Origin: HorizenOfficial
-Label: HorizenOfficial
-Suite: stable
-Codename: tina
-Architectures: i386 amd64 arm64
-Components: main
-Description: HorizenOfficial binaries
-SignWith: 4991B669
-
-Origin: HorizenOfficial
-Label: HorizenOfficial
-Suite: stable
-Codename: tricia
+Codename: mantic
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -177,3 +123,22 @@ Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
 SignWith: 4991B669
+
+Origin: HorizenOfficial
+Label: HorizenOfficial
+Suite: stable
+Codename: victoria
+Architectures: i386 amd64 arm64
+Components: main
+Description: HorizenOfficial binaries
+SignWith: 4991B669
+
+Origin: HorizenOfficial
+Label: HorizenOfficial
+Suite: stable
+Codename: faye
+Architectures: i386 amd64 arm64
+Components: main
+Description: HorizenOfficial binaries
+SignWith: 4991B669
+
