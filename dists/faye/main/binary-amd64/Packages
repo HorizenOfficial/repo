@@ -1,4 +1,20 @@
 Package: zen
+Version: 5.0.0
+Architecture: amd64
+Maintainer: Zen Blockchain Foundation <info@horizen.io>
+Installed-Size: 363974
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 4.2), libgomp1 (>= 4.9), libstdc++6 (>= 9)
+Homepage: https://horizen.io
+Priority: optional
+Section: utils
+Filename: pool/main/z/zen/zen_5.0.0_amd64.deb
+Size: 62888360
+SHA256: 2718355ac1aad966fbab3de91badb27c2fcae4e361879b45e088ece9daac6cd5
+SHA1: a2bd229f78b529370f744b0548f1222ecc4db73b
+MD5sum: c2becd97dc37b7e744aeaff55b2af10f
+Description: Private and reliable transactions, communications, and publishing - horizen.io
+
+Package: zen
 Version: 4.1.1
 Architecture: amd64
 Maintainer: Zen Blockchain Foundation <info@horizen.io>
