@@ -55,15 +55,6 @@ SignWith: 4991B669
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
-Codename: lunar
-Architectures: i386 amd64 arm64
-Components: main
-Description: HorizenOfficial binaries
-SignWith: 4991B669
-
-Origin: HorizenOfficial
-Label: HorizenOfficial
-Suite: stable
 Codename: mantic
 Architectures: i386 amd64 arm64
 Components: main
