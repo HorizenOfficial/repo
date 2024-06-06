@@ -5,7 +5,7 @@ Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
 Codename: ulyssa
-Date: Mon, 15 Apr 2024 16:02:20 UTC
+Date: Thu, 06 Jun 2024 12:15:33 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -13,8 +13,8 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  0555e3272e85cb9bcf13161208c95fa5 136 main/binary-i386/Release
- d4aa073a569967b31ddf5f043fd0810e 31254 main/binary-amd64/Packages
- d2abd2746d9f5f83038ac0c13d1825a7 7006 main/binary-amd64/Packages.gz
+ 43259ca31dfe9f8e8447ab547ff8891c 31826 main/binary-amd64/Packages
+ 09b52af3d78be894730d710a61d4af43 7116 main/binary-amd64/Packages.gz
  a833faeb2223a4f355c1fe37b2b40eca 137 main/binary-amd64/Release
  254d0b94eb62b180680d67c72498a5bf 21577 main/binary-arm64/Packages
  a020011a7965c9aab8beb0fc52149f19 4894 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  7d72d6edd30a496ecd8804101d82c6365f42c850 136 main/binary-i386/Release
- e7f670173c1083a92f9a0823e687c173526a114a 31254 main/binary-amd64/Packages
- b7879aa8c8817b05ac981415aacb66456eeef874 7006 main/binary-amd64/Packages.gz
+ b23036ea850be7243805d27885d0003d36c9ed45 31826 main/binary-amd64/Packages
+ 97a50b27a3e4c3055cb06b01f71992a67d143eb6 7116 main/binary-amd64/Packages.gz
  fc205e954bbbe380e618a7ea451e755572a0dfe9 137 main/binary-amd64/Release
  4558e178a31b684ef59e8fbe44ee40fd590b4560 21577 main/binary-arm64/Packages
  68f5888d12e25e1707a9a388f91e711ac9ce9c9f 4894 main/binary-arm64/Packages.gz
@@ -33,8 +33,8 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  dd7e956ea8ecd5e1e2e5d961bd1ac7ecf65ec483ea5e070cc311d4cd59e56c42 136 main/binary-i386/Release
- c8686aaaa0d7e4f81a749919467a842d93b55339d5629bd116cb534a550a3a64 31254 main/binary-amd64/Packages
- 139b8862bd9d6339bde3c3848971e662128b6f3b5aea9fa771a66d6feaa82f76 7006 main/binary-amd64/Packages.gz
+ b69c20ca6047a9a3db05633bd4a787eae64caa846fa5fa8a0e99a805a15d5c0d 31826 main/binary-amd64/Packages
+ 98905d4e3a8f25132d1e210eee872eae182bfe0e3e73c4efce091e276342da2c 7116 main/binary-amd64/Packages.gz
  2b98697b1ebe4acea02fec95b961d6b52fd925fc5e5d0f125cf2778e8e0b6ce2 137 main/binary-amd64/Release
  bc49d0d4fe0bd3fd9826716c43e313e8d933d699faf82bddf53ec8c0267042c3 21577 main/binary-arm64/Packages
  3b1ccfa8f5aefc33acfbeb253e452636b83245e8b408312d1f7978c622105aff 4894 main/binary-arm64/Packages.gz
@@ -42,17 +42,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJmHU+NAAoJEPtwU85JkbZpRwMQAKQ/XJrYPxE9jISCFBYX30x6
-AF6hqe6bSj+vbpMNHiFmDdfX5GKNGlYc2S1bj3U4nGxUuqPSZ+T+ptKQTWFePA02
-EG0G0EbpClBfYtNfJOfXGef4Sb5kszKcMXOCLZ/ueU0QmXjKNZtoIR6msrF8D5l0
-+22vmi3MP10PQOE8QSZx1ShoF17PzusNQbpZAv3HFkJGlBzTNYgRL/RKwxhYVTim
-BGzdJkN7fKxGCN0Y2tbUETwhwRugv/XHLqQ4zpbv+txDu+3bF5fopYYsMosPe3CA
-pLBaKbG3CNc3ZWoPeHXUiqJ6WXVIct4Ro29PlOri/XyZ8CqKTj5lO8pqyjvcpR/3
-3+2z7NmeJvANfn6oW914uMkyt6nRfxU+CrEXDW7lkNfPiYHDL9AAIYPM0FSJwkQ/
-80W9YssDFgkJu0i+W5paiYdKWOs2iIUMqoOXWU82xw0hiMFf2cbrIDFT/X/3qysZ
-FX2v1VCXg53E1uSK6OJxCrDRzJ/rtYAoagAM9J6hxQZnWgIAP4vDZQEaJ3tbn2GR
-uRNzDpbRje0vf8aaiSmmjCNPrszOaXBsdKi8dvnFzQKdnOpmL8K+2EVwM5xxhjGx
-pWJpPGsAoIt9aR1BEcQtZXpYyZ2hSXmytsVOQx8/JyKplfL5KQyhayGfcKLs08BA
-S/d7urJ8dnNBUomlfArD
-=PAQj
+iQIcBAEBCAAGBQJmYahmAAoJEPtwU85JkbZptfAP/2eV8B900kh3+lxXzSey0M39
+r1P4qKfBg6+iCi8kaLmds2ia9Rag0VvXZXEFEyTE7w4gl9EeV4arzslGstFltEDx
+ESzAXrwvLOvA05ZkPEk/9UTZDYnVazWU0KJjFMFhaZd6zgR8kcfuDkIYFFAr7Wru
+qJHea8bW/glDmugBhdxLmaXqXJ9IXmVae/bMDBdO2DGfP1vLlI67UEt5Zn89hGAO
+b6inYfklQDEL1RDXuAv3u+rEYl+HRsi0+tpJmzV0uAyraK5MylAeK/zKQtuCgS8t
+1cJ8/67W4Yr8qS5wFZjVIiSv0KICj1dyXAFyJF5t3aJOJD15R+h+10jSOkV9sq5f
+CG4dtouWmNpZ5Yt4tVb6fq8hJNhaR++G2YUewYjFEVvME3oPUyIFCh+eYDRPn4u9
+zyRctTlTz+YPeMZ4BxvLHhbEJ2xemH4ZsCMz1V4LD+pVCgZyQiNkFyL9vlykXj0D
+gsmlSUUgopIf0jtSzT/UT6dgmDc07n0Kauif7vb7n8J0RKsp5HRIxOAY6nVPCnck
+qvOV0u38HNjpfWe/a7G2IxEJ73WC5MvN9JgKkSkzNoEyiLky3683x0ydtaL7Afue
+p5ZM+aICq3O4m2Lg22cuRMwsqemw3tVYLQKobjqRw/DNE3EbZQBHAKE0LdRP/HiT
+gv3GM242q5rO1fFzuygP
+=41Rh
 -----END PGP SIGNATURE-----
