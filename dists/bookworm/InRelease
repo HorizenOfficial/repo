@@ -5,7 +5,7 @@ Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
 Codename: bookworm
-Date: Mon, 15 Apr 2024 16:01:58 UTC
+Date: Thu, 06 Jun 2024 12:15:18 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -13,8 +13,8 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  0555e3272e85cb9bcf13161208c95fa5 136 main/binary-i386/Release
- d4aa073a569967b31ddf5f043fd0810e 31254 main/binary-amd64/Packages
- d2abd2746d9f5f83038ac0c13d1825a7 7006 main/binary-amd64/Packages.gz
+ 43259ca31dfe9f8e8447ab547ff8891c 31826 main/binary-amd64/Packages
+ 09b52af3d78be894730d710a61d4af43 7116 main/binary-amd64/Packages.gz
  a833faeb2223a4f355c1fe37b2b40eca 137 main/binary-amd64/Release
  254d0b94eb62b180680d67c72498a5bf 21577 main/binary-arm64/Packages
  a020011a7965c9aab8beb0fc52149f19 4894 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  7d72d6edd30a496ecd8804101d82c6365f42c850 136 main/binary-i386/Release
- e7f670173c1083a92f9a0823e687c173526a114a 31254 main/binary-amd64/Packages
- b7879aa8c8817b05ac981415aacb66456eeef874 7006 main/binary-amd64/Packages.gz
+ b23036ea850be7243805d27885d0003d36c9ed45 31826 main/binary-amd64/Packages
+ 97a50b27a3e4c3055cb06b01f71992a67d143eb6 7116 main/binary-amd64/Packages.gz
  fc205e954bbbe380e618a7ea451e755572a0dfe9 137 main/binary-amd64/Release
  4558e178a31b684ef59e8fbe44ee40fd590b4560 21577 main/binary-arm64/Packages
  68f5888d12e25e1707a9a388f91e711ac9ce9c9f 4894 main/binary-arm64/Packages.gz
@@ -33,8 +33,8 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  dd7e956ea8ecd5e1e2e5d961bd1ac7ecf65ec483ea5e070cc311d4cd59e56c42 136 main/binary-i386/Release
- c8686aaaa0d7e4f81a749919467a842d93b55339d5629bd116cb534a550a3a64 31254 main/binary-amd64/Packages
- 139b8862bd9d6339bde3c3848971e662128b6f3b5aea9fa771a66d6feaa82f76 7006 main/binary-amd64/Packages.gz
+ b69c20ca6047a9a3db05633bd4a787eae64caa846fa5fa8a0e99a805a15d5c0d 31826 main/binary-amd64/Packages
+ 98905d4e3a8f25132d1e210eee872eae182bfe0e3e73c4efce091e276342da2c 7116 main/binary-amd64/Packages.gz
  2b98697b1ebe4acea02fec95b961d6b52fd925fc5e5d0f125cf2778e8e0b6ce2 137 main/binary-amd64/Release
  bc49d0d4fe0bd3fd9826716c43e313e8d933d699faf82bddf53ec8c0267042c3 21577 main/binary-arm64/Packages
  3b1ccfa8f5aefc33acfbeb253e452636b83245e8b408312d1f7978c622105aff 4894 main/binary-arm64/Packages.gz
@@ -42,17 +42,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJmHU93AAoJEPtwU85JkbZpX9UQAKVl/IR3gzINrTLCHpnBJXkm
-AqRsnBI9Ocre+OChcDtrf+kx+i/phoN7JTv2PoWeWo5+kCZ5+5Ll4MUHimrO0hM3
-cU+7arq5oeDmUYxhzw0/xP7sEnysZ04JBy0O8OrQR+ivSH8NxwRv17Z9UJz/Gw4t
-NFqVbMsNHjsMV7CwBQ1XMdUfIiFPF2d/AsFsQprJaPKtcujFmW8MmswZLf1uwWwv
-gNcQnJ/J1i5Mlgb2eXwhU+aSwGV5qWc8x90Tbd5e1VITdM60FXGEHqqAXDvlQ/sQ
-X2CugFSpklwNm7L+z2m82/B/3v/QPL0n0A8xZRPGigixP4pPSK5H6QGooJ9RG0it
-j1gJUyMsw3m4EhSr/1vMZpJuvoPKR/koSfPj3IMLdmUGXQhqb2/rlF8hT2ffWBzl
-1oZsWvG65uuZJ99fUnIi+StV8AkviWaR+Ry/wyKNxtcQYEMQefyfBfTarQbQ/qx3
-dknR2PXp+svcFfCpcc2yoEYRxUdhXQ7xa6sRKgMMHLntLKZ8pwsjTW3pYHKaB402
-CyIPVacQXBxNVMjW3u9tzK23Cdq8ARkf6f0ua9HAGHz6mVWEnNswtNtstA0gtrzD
-v8cV2+IIDGQqjynmhUDqTFb4TT7d/7y+u4e/ddnK01UXH1AEwnuAo+DvP5WvgBhG
-YwZE3bFuH6xfyisddMJ7
-=SGcr
+iQIcBAEBCAAGBQJmYahXAAoJEPtwU85JkbZpHR8QALGGguUk/nPvgXMg6+wPA72D
+MF2MHIXCMDlYVP/jDzXD70Iv14MbgrGMMAqd2AKJLEHX6IgXlxRK510s0intks75
+A/cMCTijho0tiSrUrZDo/t2FZzy8U1q+e8rnotBUjGS0EkH1MyhfS0GkhwTO/aZE
+bXxnIs+n8xOWUo86/Iw1hDZFexROK6axSeoukmu0rZcZjKnSgY/hchBMvLlyLYpB
+xJWADEXgY6PRtWv3JCUP9KWs/DScwKTJxcz0T+uwIhGgDMGILGcrF9B3hvo+FTTN
+YmNjJGc7OOKBG55BLr8TCuGj/iQfxGk9BR+EdLDloyZYt8HXH84ambQs9ErAH2YW
+Vkq3DdJf1tttS/ak/0J4qc68YQFCYXEWdn7bsevquKlo5EsKRG4+MOsHfTQTxrp1
+FA4HYBCVmrh7enHMCE31ZSjpeb2vsVlxlskNKHKOk0SUXQkvKC0y1NJ1GVG+Ddy/
+cKq4CFjPVjFcfVhA/1NRoD3Yqi1V1qR7HAk3jxKbkqpjJs1CiNh4Pwupz6B5slfe
+wCGzjKzT6rIUoxupVc8QJnm8OfIFb3Z3rC0Scto3sW3S/jrU9X5L4VSeSrvQrvg8
+iojF4r/LYqiCZSttIv1pXlVTksIWMbNxDox1qC+Fbysx4GBOE0x2t4X8xpNbDslU
+mT2i96Cjkely2h9lKUFd
+=CYn4
 -----END PGP SIGNATURE-----

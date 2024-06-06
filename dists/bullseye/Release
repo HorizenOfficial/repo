@@ -2,7 +2,7 @@ Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: oldstable
 Codename: bullseye
-Date: Mon, 15 Apr 2024 16:01:55 UTC
+Date: Thu, 06 Jun 2024 12:15:16 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -10,8 +10,8 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  f839ebd138de534d3f00772c1f1ecde5 139 main/binary-i386/Release
- d4aa073a569967b31ddf5f043fd0810e 31254 main/binary-amd64/Packages
- d2abd2746d9f5f83038ac0c13d1825a7 7006 main/binary-amd64/Packages.gz
+ 43259ca31dfe9f8e8447ab547ff8891c 31826 main/binary-amd64/Packages
+ 09b52af3d78be894730d710a61d4af43 7116 main/binary-amd64/Packages.gz
  26405a273fc14af84c5bfdf91dad57a6 140 main/binary-amd64/Release
  254d0b94eb62b180680d67c72498a5bf 21577 main/binary-arm64/Packages
  a020011a7965c9aab8beb0fc52149f19 4894 main/binary-arm64/Packages.gz
@@ -20,8 +20,8 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  77dbf8a91a656f86a393122abfa1eb0269c8dbac 139 main/binary-i386/Release
- e7f670173c1083a92f9a0823e687c173526a114a 31254 main/binary-amd64/Packages
- b7879aa8c8817b05ac981415aacb66456eeef874 7006 main/binary-amd64/Packages.gz
+ b23036ea850be7243805d27885d0003d36c9ed45 31826 main/binary-amd64/Packages
+ 97a50b27a3e4c3055cb06b01f71992a67d143eb6 7116 main/binary-amd64/Packages.gz
  93fa167c33de18e092b7f43b7981c5cbe2271362 140 main/binary-amd64/Release
  4558e178a31b684ef59e8fbe44ee40fd590b4560 21577 main/binary-arm64/Packages
  68f5888d12e25e1707a9a388f91e711ac9ce9c9f 4894 main/binary-arm64/Packages.gz
@@ -30,8 +30,8 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  5408a5af61b89ccf6c58f8cfee058fa19651f5d0a6264f6601fa8b7d1f39f50a 139 main/binary-i386/Release
- c8686aaaa0d7e4f81a749919467a842d93b55339d5629bd116cb534a550a3a64 31254 main/binary-amd64/Packages
- 139b8862bd9d6339bde3c3848971e662128b6f3b5aea9fa771a66d6feaa82f76 7006 main/binary-amd64/Packages.gz
+ b69c20ca6047a9a3db05633bd4a787eae64caa846fa5fa8a0e99a805a15d5c0d 31826 main/binary-amd64/Packages
+ 98905d4e3a8f25132d1e210eee872eae182bfe0e3e73c4efce091e276342da2c 7116 main/binary-amd64/Packages.gz
  064262cee170069d2006279adf6a94c6f8b0db98a34a4ee5a99b3980ea051827 140 main/binary-amd64/Release
  bc49d0d4fe0bd3fd9826716c43e313e8d933d699faf82bddf53ec8c0267042c3 21577 main/binary-arm64/Packages
  3b1ccfa8f5aefc33acfbeb253e452636b83245e8b408312d1f7978c622105aff 4894 main/binary-arm64/Packages.gz
