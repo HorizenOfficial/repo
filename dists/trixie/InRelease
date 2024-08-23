@@ -5,7 +5,7 @@ Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: testing
 Codename: trixie
-Date: Thu, 06 Jun 2024 12:15:20 UTC
+Date: Fri, 23 Aug 2024 17:04:48 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -13,8 +13,8 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  1ac9a6db9db48c905d35660d4ad17c65 137 main/binary-i386/Release
- 43259ca31dfe9f8e8447ab547ff8891c 31826 main/binary-amd64/Packages
- 09b52af3d78be894730d710a61d4af43 7116 main/binary-amd64/Packages.gz
+ fd1b1fea1f4e1f57aa6998d1c3b7403b 32398 main/binary-amd64/Packages
+ 6754bc52a9fd3782df7925acdaf6df8c 7217 main/binary-amd64/Packages.gz
  bc72f12255381a100f9f4202b37d901a 138 main/binary-amd64/Release
  254d0b94eb62b180680d67c72498a5bf 21577 main/binary-arm64/Packages
  a020011a7965c9aab8beb0fc52149f19 4894 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  f87581f9cac3e7207fb167255c89088aa0b0b2bd 137 main/binary-i386/Release
- b23036ea850be7243805d27885d0003d36c9ed45 31826 main/binary-amd64/Packages
- 97a50b27a3e4c3055cb06b01f71992a67d143eb6 7116 main/binary-amd64/Packages.gz
+ 8dce4647b15246da578929e9894b42592d8eddf6 32398 main/binary-amd64/Packages
+ 9f1e21008599faf364f1bc09c1da04cce3796a37 7217 main/binary-amd64/Packages.gz
  1c56f5f9784ab3b6f8a1e9d041101e67a99ec0ad 138 main/binary-amd64/Release
  4558e178a31b684ef59e8fbe44ee40fd590b4560 21577 main/binary-arm64/Packages
  68f5888d12e25e1707a9a388f91e711ac9ce9c9f 4894 main/binary-arm64/Packages.gz
@@ -33,8 +33,8 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  2872a9a5b5323516dbb83194039fb4fad2e00b502877a15c8c1e864beb5fb725 137 main/binary-i386/Release
- b69c20ca6047a9a3db05633bd4a787eae64caa846fa5fa8a0e99a805a15d5c0d 31826 main/binary-amd64/Packages
- 98905d4e3a8f25132d1e210eee872eae182bfe0e3e73c4efce091e276342da2c 7116 main/binary-amd64/Packages.gz
+ 8d8bdf491de1ccd3eaa2c143af36e55a74fa18cc83653d28e87e8b94932e14ee 32398 main/binary-amd64/Packages
+ fff00376b27c5f1fb1a27566daa43cf2b3eabfd79843300cea3c269dab91790c 7217 main/binary-amd64/Packages.gz
  409178f420de7e4ae5c9746db4a439e6fdc0a29fec3ea89362244320ed8971e8 138 main/binary-amd64/Release
  bc49d0d4fe0bd3fd9826716c43e313e8d933d699faf82bddf53ec8c0267042c3 21577 main/binary-arm64/Packages
  3b1ccfa8f5aefc33acfbeb253e452636b83245e8b408312d1f7978c622105aff 4894 main/binary-arm64/Packages.gz
@@ -42,17 +42,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJmYahZAAoJEPtwU85JkbZpIpEQAMyza9dl1/AfaARfUj43MktY
-3C87ZSbOjL/LCFNdvEzgiqfHH0XsfVhvYYuFYZRas/gXDqSgSUwNlrintHPQ7iZ1
-Zk85gGoVfEqJ52y8JFGjeHNX/ht034muGGPpaIdTMBSE5B0OwnioUIWnrrmrbQtY
-4QN61PpukrMW0Oh69hs3YFQD0ALWram8Pwdv33nc3vHC8yLO5sG+zUYWwlei+AHd
-l20yGQ9LgwC1JVEENmAmLBrJ0UtxEg75i2NEoI7uBUk6Qz+pzeH8sKFmFCO84ksn
-lE+a4opQVBLu4J9WMC1h9qPzr9zzpyc/ZjCnbVvw/NAdPUap7PojiwEV9AmzlE9q
-Caj93RK9FR3+fNeYz58BhYPRD9YSB7fczbPvLa6ACwie6a8qzznmhWFOkltw/KJV
-CJfI94Mbp0PsO/WhT6bPnmluSt+svXilC+5Om6RrlvlKdCZ66/tHA0Ei0maQN8ba
-4t/GQS7A52psAA8P0Q6qKD0k0SECcpgbxwMasNWz2dWSPcyd+1QYKOU8vf8VMG5Q
-tjKw4cqOW4RifQiyK2TOTttoW0zwGMa5YNxBvGGOEp5IoPCRIvDyHfwluW/xsCw2
-cCXaQOY3IpniiapZfWatEi6fHiZ5waJZB3Oy2mPXlSm2T7jm6SoTF1rPOT7tPGfr
-FXsbTMbrubPuQQNSRVjR
-=nm9N
+iQIcBAEBCAAGBQJmyMEwAAoJEPtwU85JkbZpWoMP/20/0hf3OPOW2rLSAFy6jvWI
+JUM4/fleqs5IrWQ6IZDQeY1deBTaFjlK1tn/ncSuzQBwLnM41uE2bVMQg0wgXMiL
+3BV5nWksuGu4BIoFUWaeWJWEwWsrx3yvE0CMFC+XUDdvsZ9crYSgZOX0ba+ZB5+M
+mUFjkgZTtX7QVgYpISehszSeSrio996VHHmZPRgfGOsZSlk5Wuz45hKmklSmphER
+qj+6+IZX1WIJvnpst090cJ0ZPhhWKsPmtUxf4XXPv9YeCu24jsz9nW14x+ldvZ2S
+y89tPsThU2HuqP/b5mGobMN3UwZ42WoJJA2MAnGkV4uLyUO+a4NGz4u0cpFLaoJo
+FaJnkm6T1OfV4mb0HeWjeNgBMk/U3vvjINYTHeLzLYDMH4nqwk8W2gKeh5E1PGwO
+Ztf74jEuFsRKJXCa3HUwb5lPG+5mpwGaQAlfs2vxA5Yk8h/XeeTKXLz3Akf9KRUM
+auEkVkPGw1UjDorqyvLJRY6326x+rsVn8L8Cecyp7nL0Qf40/1eviWYZokeyz6G/
+uYRlOoN2yAZld0gGEEUZNgz+rpoMACod7mnmk7gt/f4/dP6V6syZtQJo0pM84+ZK
+2ydcZ2f3dFw5SZfNDxGVY5aFzvh9NzlhIGLdathHtN+4ljyyfHkzINo0FCRBJsT3
+laYuVnnDfikTr0BIAR5E
+=l8iX
 -----END PGP SIGNATURE-----
