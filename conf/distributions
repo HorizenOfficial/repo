@@ -55,7 +55,7 @@ SignWith: 4991B669
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
-Codename: mantic
+Codename: noble
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
@@ -64,7 +64,7 @@ SignWith: 4991B669
 Origin: HorizenOfficial
 Label: HorizenOfficial
 Suite: stable
-Codename: noble
+Codename: oracular
 Architectures: i386 amd64 arm64
 Components: main
 Description: HorizenOfficial binaries
